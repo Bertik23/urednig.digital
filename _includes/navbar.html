@@ -1,0 +1,16 @@
+<div class="navbar">
+	<div class="brand">
+		Úředník.digital
+	</div>
+	{% for navItem in site.data.navbar %}
+		<div class=
+		     {% if navItem.type == "link" %}
+		     	"nav-link"
+		     {% elif navItem.type == "button" %}
+		     	"nav-button"
+		     {% endif %}
+		>
+			<a href={{navItem.link}}>{{navItem.text}}</a>
+		</div>
+	{% endfor %}
+</div>

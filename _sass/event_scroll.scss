@@ -1,7 +1,11 @@
+@import "themes";
+
 .event-scroll-head{
     display: grid;
 
     grid-template-columns: auto auto;
+    align-items: center;
+    margin-bottom: 1.5rem;
 }
 
 .scroll-control{
@@ -9,7 +13,7 @@
 }
 
 .event-small{
-    display: inline-block;
+    // display: inline-block;
     max-width: 18.75rem;
     // grid-template-columns: auto auto;
 }
@@ -28,29 +32,35 @@
 }
 
 .event-scroll{
-    //width: 100%;
+    width: 100%;
     //overflow: hidden;
-    position: relative;
-    flex: 8;
-    -webkit-flex: 8;
-    order: 2;
-    -webkit-order: 2;
-    z-index: 0;
-    font-size: 0;
-    overflow-y: visible;
-    padding: 10% 0;
-    margin: -10% 0;
-    text-align: center;
 }
 
 .event-scroll-events{
-    //display: grid;
-    //grid-template-rows: 1fr;
-    //grid-template-columns: repeat(auto-fill, minmax(18.75rem, 1fr));
-    //width: inherit;
-    //overflow: auto;
-    white-space: nowrap;
-    background-color: #AAA;
+    // display: grid;
+    // grid-template-columns: repeat(auto-fill, minmax(18.75rem, 1fr));
+    // grid-template-rows: repeat(auto-fill, minmax(15rem, 1fr));
+    max-width: 100%;//calc(100vw - 11rem);
+    // //overflow: auto;
+    // white-space: nowrap;
+    // background-color: #AAA;
 }
 
+.event-scroll-control-button{
+    width: 3.125rem;
+    height: 3.125rem;
+    border: none;
+    border-radius: 100%;
+    font-size: 2rem;
+    @include themed(){
+        background-color: t($navbutton-bg);
+        color: t($navbutton-txt);
+    }
+}
 
+.event-scroll-control-button:hover{
+    cursor: pointer;
+    @include themed(){
+        background-color: darken(t($navbutton-bg), 20%);
+    }
+}

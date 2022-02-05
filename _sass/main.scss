@@ -20,6 +20,7 @@ a{
 
 html{
     height: 100%;
+    width: 100%;
 }
 
 body{
@@ -28,6 +29,8 @@ body{
     display: grid;
     -ms-grid-rows: auto 1fr auto;
     grid-template-rows: auto 1fr auto;
+    grid-template-columns: 100%;
+    width: 100%;
 }
 
 main{
@@ -35,13 +38,16 @@ main{
     padding-right: 5rem;
     padding-top: 9rem;
     padding-bottom: 9rem;
+    width: calc(100% - 10rem);
 }
 
 .top-grid{
     display: grid;
 
-    grid-template-columns: auto auto;
+    grid-template-columns: calc(100% - 33rem) 33rem;
     align-items: center;
+
+    max-width: 100%;
 
     margin-bottom: 5rem;
 }

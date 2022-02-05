@@ -2,10 +2,19 @@
     <div class="event-scroll-head">
         <h3>{{include.title}}</h3>
         <div class="scroll-control">
-            <button><i class="bi bi-chevron-left"></i></button><button><i class="bi bi-chevron-right"></i></button>
+            <button
+                class="event-scroll-control-button"
+                onclick="$(this.parentNode.parentNode.parentNode.getElementsByClassName('event-scroll-events')[0]).trigger('prev.owl.carousel')">
+                    <i class="bi bi-chevron-left"></i>
+            </button>
+            <button
+                class="event-scroll-control-button"
+                onclick="$(this.parentNode.parentNode.parentNode.getElementsByClassName('event-scroll-events')[0]).trigger('next.owl.carousel')">
+                <i class="bi bi-chevron-right"></i>
+            </button>
         </div>
     </div>
-    <div class="event-scroll-events">
+    <div class="event-scroll-events owl-carousel">
         {% for event in site.events %}
             <div class="event-small">
                 <img class=event-small-image src={{ event.image }} alt="titulní obrázek eventu">
@@ -13,5 +22,24 @@
                 {{ event.annotation }}
             </div>
         {% endfor %}
+        <script>
+            $(document.scripts[document.scripts.length-1].parentNode).owlCarousel({
+                margin: 20,
+                nav:false,
+                autoWidth: true,
+                items: 4,
+                responsive:{
+                    0:{
+                        items:1
+                    },
+                    600:{
+                        items:2
+                    },
+                    1000:{
+                        items:4
+                    }
+                }
+            })
+        </script>
     </div>
 </div>

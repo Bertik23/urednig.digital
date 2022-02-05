@@ -1,4 +1,4 @@
-.event-scroll{
+.event-scroll-head{
     display: grid;
 
     grid-template-columns: auto auto;
@@ -9,7 +9,8 @@
 }
 
 .event-small{
-    // display: grid;
+    display: inline-block;
+    max-width: 18.75rem;
     // grid-template-columns: auto auto;
 }
 
@@ -25,3 +26,31 @@
     font-size: 1.125rem;
     line-height: 1.3125rem;
 }
+
+.event-scroll{
+    //width: 100%;
+    //overflow: hidden;
+    position: relative;
+    flex: 8;
+    -webkit-flex: 8;
+    order: 2;
+    -webkit-order: 2;
+    z-index: 0;
+    font-size: 0;
+    overflow-y: visible;
+    padding: 10% 0;
+    margin: -10% 0;
+    text-align: center;
+}
+
+.event-scroll-events{
+    //display: grid;
+    //grid-template-rows: 1fr;
+    //grid-template-columns: repeat(auto-fill, minmax(18.75rem, 1fr));
+    //width: inherit;
+    //overflow: auto;
+    white-space: nowrap;
+    background-color: #AAA;
+}
+
+

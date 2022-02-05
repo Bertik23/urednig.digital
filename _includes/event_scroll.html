@@ -1,7 +1,9 @@
 <div class="event-scroll">
-    <h3>{{include.title}}</h3>
-    <div class="scroll-control">
-        <button><i class="bi bi-chevron-left"></i></button><button><i class="bi bi-chevron-right"></i></button>
+    <div class="event-scroll-head">
+        <h3>{{include.title}}</h3>
+        <div class="scroll-control">
+            <button><i class="bi bi-chevron-left"></i></button><button><i class="bi bi-chevron-right"></i></button>
+        </div>
     </div>
     <div class="event-scroll-events">
         {% for event in site.events %}

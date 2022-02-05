@@ -1,0 +1,39 @@
+@import "colors";
+
+$navbar-bg: "navbar-bg";
+$navbutton-bg: "navbutton-bg";
+$navbutton-txt: "navbutton-txt";
+$navlink-txt: "navlink-txt";
+
+$themes: (
+        default: (
+                navbar-bg: $navbar-light,
+                navbutton-bg: $navbutton-light,
+                navbutton-txt: $navbutton-text-light,
+                navlink-txt: $navlink-text-light
+                ),
+        dark: (
+            navbar-bg: $navbar-dark,
+            navbutton-bg: $navbutton-dark,
+            navbutton-txt: $navbutton-text-dark,
+            navlink-txt: $navlink-text-dark
+            ),
+);
+
+@mixin themed() {
+  @each $theme, $map in $themes {
+    .theme--#{$theme} & {
+      $theme-map: () !global;
+      @each $key, $submap in $map {
+        $value: map-get(map-get($themes, $theme), '#{$key}');
+        $theme-map: map-merge($theme-map, ($key: $value)) !global;
+      }
+      @content;
+      $theme-map: null !global;
+    }
+  }
+}
+
+@function t($key) {
+  @return map-get($theme-map, $key);
+}

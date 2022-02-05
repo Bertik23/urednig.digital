@@ -1,0 +1,12 @@
+- text: "Eventy"
+  link: /eventy
+  type: link
+- text: "Metodika"
+  link: /metodika
+  type: button
+- text: "Diskuse"
+  link: /diskuse
+  type: button
+- text: "O nás"
+  link: /about
+  type: link

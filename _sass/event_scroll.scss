@@ -1,0 +1,27 @@
+.event-scroll{
+    display: grid;
+
+    grid-template-columns: auto auto;
+}
+
+.scroll-control{
+    justify-self: end;
+}
+
+.event-small{
+    // display: grid;
+    // grid-template-columns: auto auto;
+}
+
+.event-small-image{
+    display: block;
+    max-height: 13.4375rem;
+    max-width: 18.75rem;
+}
+
+.event-small-title{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.125rem;
+    line-height: 1.3125rem;
+}

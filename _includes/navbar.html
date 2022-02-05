@@ -1,16 +1,18 @@
 <div class="navbar">
-	<div class="brand">
-		Úředník.digital
-	</div>
-	{% for navItem in site.data.navbar %}
-		<div class=
-		     {% if navItem.type == "link" %}
-		     	"nav-link"
-		     {% elif navItem.type == "button" %}
-		     	"nav-button"
-		     {% endif %}
-		>
-			<a href={{navItem.link}}>{{navItem.text}}</a>
-		</div>
-	{% endfor %}
+    <div class="brand">
+        Úředník.digital
+    </div>
+    <div class="nav-links">
+        {% for navItem in site.data.navbar %}
+            <a class="nav-link
+                {% if navItem.type == "link" %}
+                    nav-type-link"
+                {% elsif navItem.type == "button" %}
+                    nav-type-button"
+                {% endif %}
+            href={{navItem.link}}>
+                {{navItem.text}}
+            </a>
+        {% endfor %}
+    </div>
 </div>

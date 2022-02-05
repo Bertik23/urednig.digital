@@ -1,0 +1,29 @@
+<div class="footer">
+    <div class="footer-main-text">
+        Úřady digitálně a lidsky
+    </div>
+    <div class="footer-secondary-text">
+        Vzděláváme, sdílíme, síťujeme a budujeme komunitu.
+    </div>
+    <div class="footer-nav">
+        <div class="footer-cookies">
+            Cookies cookies cookies cookies cookies cookies cookies 
+        </div>
+        <div class="footer-contacts">
+            Kontakty
+            <ul>
+            {% for contact in site.data.footer.contacts %}
+                <li>{{ contact }}</li>
+            {% endfor %}
+            </ul>
+        </div>
+        <div class="footer-social">
+            {% for soc in site.data.footer.social %}
+                <a aria-label={{ soc.name }} href={{ soc.link }}>{{ soc.icon }}</a>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="footer-copyright">
+        Copyright copyright copyright copyright copyright copyright copyright copyright copyright copyright copyright 
+    </div>
+</div>

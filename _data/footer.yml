@@ -1,0 +1,14 @@
+contacts:
+  - Jedna
+  - Dva
+
+social:
+  - icon: '<i class="bi bi-facebook"></i>'
+    link: /
+    name: Facebook
+  - icon: <i class="bi bi-instagram"></i>
+    link: /
+    name: Instagram
+  - icon: <i class="bi bi-twitter"></i>
+    link: /
+    name: Twitter

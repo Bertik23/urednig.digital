@@ -1,0 +1,60 @@
+@import "themes";
+
+.navbar{
+    position: -webkit-sticky;
+    position: sticky;
+    display: -ms-grid;
+    display: grid;
+    padding-left: 4.5rem;
+    padding-right: 4.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    -ms-grid-columns: auto auto;
+    grid-template-columns: auto auto;
+
+    align-items: center;
+
+    @include themed(){
+        background-color: t($navbar-bg);
+    }
+}
+
+.nav-links{
+    justify-self: end;
+}
+
+.nav-link{
+    display: inline-block;
+    width: 9.3rem;
+    line-height: 1.5rem;
+    text-align: center;
+    margin-left: .5rem;
+    margin-right: .5rem;
+}
+
+.brand{
+    width: 12rem;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.nav-type-button{
+    height: 100%;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    @include themed(){
+        background-color: t($navbutton-bg);
+        color: t($navbutton-txt);
+    }
+}
+
+.nav-type-link{
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    @include themed(){
+        color: t($navlink-txt);
+    }
+}

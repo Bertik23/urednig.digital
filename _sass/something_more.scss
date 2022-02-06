@@ -1,0 +1,45 @@
+@import "themes";
+
+.something-more-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    padding: 3.3125rem;
+
+    margin-bottom: 5rem;
+
+    @include themed(){
+        background-color: t($navbar-bg);
+    }
+}
+
+.something-more-links{
+    justify-self: end;
+    text-align: center;
+}
+
+
+.something-more-button{
+    height: 100%;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    display: inline-block;
+    width: 18.75rem;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    text-align: center;
+    margin: .5rem;
+    margin-left: .5rem;
+    margin-right: .5rem;
+    @include themed(){
+        background-color: t($navbutton-bg);
+        color: t($navbutton-txt);
+    }
+}
+
+.something-more-text{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3rem;
+    line-height: 3.5rem;
+}

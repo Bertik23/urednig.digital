@@ -3,21 +3,39 @@
 $navbar-bg: "navbar-bg";
 $navbutton-bg: "navbutton-bg";
 $navbutton-txt: "navbutton-txt";
+$button-bg: "button-bg";
+$button-txt: "button-txt";
 $navlink-txt: "navlink-txt";
+$readmore: "readmore";
+$dark-bg: "dark-bg";
+$darkbox-bg: "darkbox-bg";
+$footer-bg: "footer-bg";
 
 $themes: (
-        default: (
-                navbar-bg: $navbar-light,
-                navbutton-bg: $navbutton-light,
-                navbutton-txt: $navbutton-text-light,
-                navlink-txt: $navlink-text-light
-                ),
-        dark: (
-            navbar-bg: $navbar-dark,
-            navbutton-bg: $navbutton-dark,
-            navbutton-txt: $navbutton-text-dark,
-            navlink-txt: $navlink-text-dark
-            ),
+  default: (
+    navbar-bg: $navbar-light,
+    navbutton-bg: $navbutton-light,
+    navbutton-txt: $navbutton-text-light,
+    navlink-txt: $navlink-text-light,
+    readmore: $readmore-light,
+    footer-bg: $footer-light,
+    dark-bg: $dark-bg-light,
+    button-bg: $button-bg-light,
+    button-txt: $button-txt-light,
+    darkbox-bg: $darkbox-bg-light
+  ),
+  dark: (
+    navbar-bg: $navbar-dark,
+    navbutton-bg: $navbutton-dark,
+    navbutton-txt: $navbutton-text-dark,
+    navlink-txt: $navlink-text-dark,
+    readmore: $readmore-dark,
+    footer-bg: $footer-dark,
+    dark-bg: $dark-bg-dark,
+    button-bg: $button-bg-dark,
+    button-txt: $button-txt-dark,
+    darkbox-bg: $darkbox-bg-dark
+  ),
 );
 
 @mixin themed() {

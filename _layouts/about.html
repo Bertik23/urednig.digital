@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="top-grid">
+    <div>
+        <h1>Co děláme</h1>
+        <div class="perex">Proč to děláme proč to děláme proč to děláme proč to děláme proč to děláme </div>
+    </div>
+    <div class="top-image">
+        <span>ilustrace</span>
+    </div>
+    <div>
+        <h2>Zapojte se</h2>
+        <div>
+            <p>Zapojte se Zapojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se</p>
+        </div>
+    </div>
+    <div class="dark-box">
+        <h2>Kontakty</h2>
+        <ul>
+            {% for contact in page.contacts %}
+                <li class="list">{{contact}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+<h2 class="center">Náš tým</h2>
+{% for division in page.team %}
+    <h3 class="center">{{division.name}}</h3>
+    <div class="team-member-grid center">
+        {% for teamMember in division.members %}
+            <div class="team-member">
+                <img class="team-profile-picture" src={{teamMember.image}} alt={{teamMember.name}}>
+                <div class="center team-profile-name">{{teamMember.name}}</div>
+                <div class="center team-profile-function">{{teamMember.function}}</div>
+            </div>
+        {% endfor %}
+    </div>
+{% endfor %}
+
+<h2 class="center">Kdo za projektem stojí</h2>
+<div class="about-communities">
+    <div>
+        <h2>Česko.digital</h2>
+        <p>Jako komunita expertních dobrovolníků měníme Česko k lepšímu.</p>
+        <p>Máme za sebou projekty úspěšné doma i ve světě.</p>
+        <p>Víme, že pomocí IT dokážeme dosáhnout velkých věcí, které stojí méně a fungují lépe.</p>
+    </div>
+    <div>
+        <h2>Další</h2>
+        <p>Jako komunita expertních dobrovolníků měníme Česko k lepšímu.</p>
+        <p>Máme za sebou projekty úspěšné doma i ve světě.</p>
+        <p>Víme, že pomocí IT dokážeme dosáhnout velkých věcí, které stojí méně a fungují lépe.</p>
+    </div>
+</div>

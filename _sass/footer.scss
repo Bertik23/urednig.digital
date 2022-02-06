@@ -7,7 +7,7 @@
     padding-right: 11.5rem;
     padding-bottom: 1.75rem;
     @include themed(){
-        background-color: t($navbar-bg);
+        background-color: t($footer-bg);
     }
 }
 

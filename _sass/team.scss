@@ -1,0 +1,14 @@
+.team-profile-picture{
+    width: 7.25rem;
+    height: 7.25rem;
+    border-radius: 100%;
+}
+
+.team-member-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 15rem));
+    grid-template-rows: repeat(auto-fit, min-content);
+    grid-row-gap: .5rem;
+    justify-content: center;
+    margin-bottom: 1rem;
+}

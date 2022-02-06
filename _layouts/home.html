@@ -18,4 +18,15 @@ layout: default
     Eventy
 </h2>
 
-{% include event_scroll.html title="Proběhlé eventy" %}
+{% include event_scroll.html title="Proběhlé eventy" events=site.events%}
+
+{% include something_more.html text="Máme pro vás něco navíc" link1url="/metodika" link1text="Metodika" link2url="/diskuse" link2text="Diskuse"%}
+
+<h2 class="center">Videa Eventů</h2>
+{% include event_scroll.html title="Proběhlé eventy" events=site.events%}
+
+
+<div class="dark-bg">
+    <h2 class="center">Blog</h2>
+    {% include event_scroll.html title="Proběhlé eventy" events=site.events%}
+</div>

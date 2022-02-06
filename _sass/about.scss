@@ -1,0 +1,5 @@
+.about-communities{
+    display: grid;
+    grid-template-columns: calc(50% - 2.5rem) calc(50% - 2.5rem);
+    column-gap: 5rem;
+}

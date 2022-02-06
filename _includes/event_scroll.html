@@ -15,11 +15,12 @@
         </div>
     </div>
     <div class="event-scroll-events owl-carousel">
-        {% for event in site.events %}
+        {% for event in include.events %}
             <div class="event-small">
                 <img class=event-small-image src={{ event.image }} alt="titulní obrázek eventu">
                 <div class="event-small-title">{{event.title}}</div>
-                {{ event.annotation }}
+                <p class="event-annotation">{{ event.annotation }}</p>
+                <a href={{event.url}} class="event-read-more">Read more</a>
             </div>
         {% endfor %}
         <script>

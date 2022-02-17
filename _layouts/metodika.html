@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="top-grid">
+    <div>{{content}}</div>
+    <div class=top-box>
+        <div class="dark-box">
+            <h2>Ke stažení</h2>
+            <ul class="download-list">
+                {% for document in page.files %}
+                    <li><a href={{document.url}}>{{document.name}}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>

@@ -162,3 +162,27 @@ p{
     line-height: 1.5rem;
     margin-bottom: .5rem;
 }
+
+.box{
+    border: solid black 1px;
+    padding: 3.5rem;
+}
+
+.top-box{
+    align-self: start;
+    padding: 1rem;
+}
+
+.download-list li{
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+}
+
+.download-list li a::before{
+    background-color: white;
+    width: 1rem;
+    height: 1rem;
+    display: inline-block;
+    content: " ";
+    margin-right: 1rem;
+}

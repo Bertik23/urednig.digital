@@ -5,7 +5,7 @@ layout: default
 <div class="top-grid">
     <div>
         <h1>Co děláme</h1>
-        <div class="perex">Proč to děláme proč to děláme proč to děláme proč to děláme proč to děláme </div>
+        <div class="perex">{{ page.what }}</div>
     </div>
     <div class="top-image">
         <span>ilustrace</span>
@@ -13,7 +13,7 @@ layout: default
     <div>
         <h2>Zapojte se</h2>
         <div>
-            <p>Zapojte se Zapojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se</p>
+            {{ page.join | markdownify}}
         </div>
     </div>
     <div class="dark-box">

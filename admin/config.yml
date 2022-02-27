@@ -1,0 +1,99 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
+collections:
+  - name: 'events'
+    label: 'Eventy'
+    folder: '_events/'
+    fields:
+      - { name: title }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: Image, name: image, widget: image}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'Pages'
+    editor:
+      preview: false
+    files:
+      - label: 'O nás'
+        name: 'about'
+        file: 'about.markdown'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
+          - {label: Contacts, name: contacts, widget: list}
+          - label: "Co děláme?"
+            name: what
+            widget: string
+          - label: "Zapojte se"
+            name: join
+            widget: markdown
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - label: Oblast
+                name: name
+                widget: string
+              - label: Členové
+                name: members
+                widget: list
+                fields:
+                  - label: Jméno
+                    name: name
+                    widget: string
+                  - label: Fotka
+                    name: image
+                    widget: image
+                  - label: Funkce
+                    name: function
+                    widget: string
+      - label: Metodika
+        name: metodika
+        file: metodika.md
+        fields:
+          - label: Ke stažení
+            name: files
+            widget: list
+            fields:
+              - label: Name
+                name: name
+                widget: string
+              - label: File
+                name: url
+                widget: file
+  - name: 'config'
+    label: 'Config'
+    editor:
+      preview: false
+    files:
+      - label: 'Footer'
+        name: 'footer'
+        file: '_data/footer.yml'
+        fields:
+          - label: 'Contacts'
+            name: 'contacts'
+            widget: 'list'
+            # fields:
+            #   - { label: Name, name: name, widget: string }
+            #   - { label: Link, name: link, widget: string }
+          - label: "Main text"
+            name: main
+            widget: string
+          - label: "Secondary text"
+            name: secondary
+            widget: string
+          - label: "Cookies text"
+            name: cookies
+            widget: string
+          - label: "Copyright text"
+            name: copyright
+            widget: string
+          - label: 'Social'
+            name: 'social'
+            widget: 'list'
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Link, name: link, widget: string }
+              - { label: Icon, name: icon, widget: string }

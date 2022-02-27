@@ -6,6 +6,10 @@ contacts:
   - Kontakt0
   - Kontakt1
   - Kontakt2
+what: >-
+  Proč to děláme proč to děláme proč to děláme proč to děláme proč to děláme
+join: >-
+  Zapojte se Zapojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se zapojte se připojte se
 team:
   - name: Oblast1
     members:

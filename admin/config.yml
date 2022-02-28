@@ -63,6 +63,9 @@ collections:
               - label: File
                 name: url
                 widget: file
+          - label: Body
+            name: body
+            widget: markdown
   - name: 'config'
     label: 'Config'
     editor:

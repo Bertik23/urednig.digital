@@ -37,24 +37,31 @@ body{
     grid-template-rows: auto 1fr auto;
     grid-template-columns: 100%;
     width: 100%;
+    // background-color: #F9DFB5;
+    background: rgb(249,223,181);
+    background: linear-gradient(90deg, rgba(249,223,181,1) 2%, rgba(255,255,255,1) 100%);
 }
 
+
 main{
-    padding-left: 5rem;
-    padding-right: 5rem;
+    // padding-left: 10rem;
+    // padding-right: 10rem;
     padding-top: 9rem;
     padding-bottom: 9rem;
-    width: calc(100% - 10rem);
+    // width: calc(100% - 10rem);
 }
 
 .top-grid{
     display: grid;
 
-    grid-template-columns: calc(100% - 33rem) 33rem;
+    grid-template-columns: 60% 40%;
     grid-row-gap: 3rem;
     align-items: center;
 
     max-width: 100%;
+
+    margin-left: 10rem;
+    margin-right: 10rem;
 
     margin-bottom: 5rem;
 }
@@ -91,8 +98,8 @@ h3{
 }
 
 .top-image{
-    width: 33rem;
-    height: 33rem;
+    width: 100%;
+    height: calc(max-width);
     border-radius: 100%;
     background-color: #C4C4C4;
     text-align: center

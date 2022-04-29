@@ -4,15 +4,15 @@
     </div>
     <div class="nav-links">
         {% for navItem in site.data.navbar %}
-            <a class="nav-link
-                {% if navItem.type == "link" %}
-                    nav-type-link"
-                {% elsif navItem.type == "button" %}
-                    nav-type-button"
-                {% endif %}
-            href={{navItem.link}}>
+            {% if navItem.group == "start" %}
+                <div class="nav-group">
+            {% endif %}
+            <a class="nav-link" href={{navItem.link}}>
                 {{navItem.text}}
             </a>
+            {% if navItem.group == "end" %}
+                </div>
+            {% endif %}
         {% endfor %}
     </div>
 </div>

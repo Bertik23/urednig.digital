@@ -1,12 +1,12 @@
 - text: "Eventy"
   link: /eventy
-  type: link
+  group: null
 - text: "Metodika"
   link: /metodika
-  type: button
+  group: start
 - text: "Diskuse"
   link: /diskuse
-  type: button
+  group: end
 - text: "O nás"
   link: /about
-  type: link
+  group: null

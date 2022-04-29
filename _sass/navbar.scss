@@ -26,11 +26,11 @@
 
 .nav-link{
     display: inline-block;
-    width: 9.3rem;
+    width: max-content;
     line-height: 1.5rem;
     text-align: center;
-    margin-left: .5rem;
-    margin-right: .5rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
 }
 
 .brand{
@@ -41,20 +41,29 @@
     font-style: normal;
 }
 
-.nav-type-button{
-    height: 100%;
+.nav-group{
+    display: inline;
+    margin: 0;
+    background-color: #96FFB6;
+    border-radius: 1rem;
     padding-top: .5rem;
     padding-bottom: .5rem;
-    @include themed(){
-        background-color: t($navbutton-bg);
-        color: t($navbutton-txt);
-    }
 }
 
-.nav-type-link{
-    margin-top: .5rem;
-    margin-bottom: .5rem;
-    @include themed(){
-        color: t($navlink-txt);
-    }
-}
+// .nav-type-button{
+//     height: 100%;
+//     padding-top: .5rem;
+//     padding-bottom: .5rem;
+//     @include themed(){
+//         background-color: t($navbutton-bg);
+//         color: t($navbutton-txt);
+//     }
+// }
+
+// .nav-type-link{
+//     margin-top: .5rem;
+//     margin-bottom: .5rem;
+//     @include themed(){
+//         color: t($navlink-txt);
+//     }
+// }

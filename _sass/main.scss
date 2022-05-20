@@ -8,6 +8,8 @@
 @import "form";
 @import "team";
 @import "about";
+@import "fonts";
+@import "buttons";
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto');
 
@@ -44,8 +46,14 @@ body{
 
 
 main{
-    // padding-left: 10rem;
-    // padding-right: 10rem;
+    @include respond-above(xl){
+        padding-left: 9.875rem;
+        padding-right: 9.975rem;
+    }
+    @include respond-below(xl){
+        padding-left: 10%;
+        padding-right: 10%;
+    }
     padding-top: 9rem;
     padding-bottom: 9rem;
     // width: calc(100% - 10rem);
@@ -60,35 +68,84 @@ main{
 
     max-width: 100%;
 
-    margin-left: 10rem;
-    margin-right: 10rem;
+    // margin-left: 10rem;
+    // margin-right: 10rem;
 
     margin-bottom: 5rem;
 }
 
-h1{
-    font-style: normal;
-    font-weight: bold;
-    font-size: 6.25rem;
-    line-height: 6.75rem;
-    margin-bottom: 3rem;
+h1, h2, h3{
+    font-family: "cesko.digital";
+}
+
+p {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
 }
 
 h2{
-    font-style: normal;
-    font-weight: 500;
-    font-size: 4.5rem;
-    line-height: 5.25rem;
-    margin-bottom: 2rem;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
 }
 
 h3{
-    font-style: normal;
-    font-weight: normal;
-    font-size: 2.5rem;
-    line-height: 2.9rem;
-    margin-bottom: 1rem;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    letter-spacing: 0em;
 }
+
+h1 {
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 79px;
+    letter-spacing: 0em;
+}
+
+h4 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+}
+
+// font-family: cesko.digital;
+// font-size: 48px;
+// font-weight: 400;
+// line-height: 58px;
+// letter-spacing: 0em;
+// text-align: left;
+
+
+// h1{
+//     font-style: normal;
+//     font-weight: bold;
+//     font-size: 6.25rem;
+//     line-height: 6.75rem;
+//     margin-bottom: 3rem;
+// }
+
+// h2{
+//     font-style: normal;
+//     font-weight: 500;
+//     font-size: 4.5rem;
+//     line-height: 5.25rem;
+//     margin-bottom: 2rem;
+// }
+
+// h3{
+//     font-style: normal;
+//     font-weight: normal;
+//     font-size: 2.5rem;
+//     line-height: 2.9rem;
+//     margin-bottom: 1rem;
+// }
 
 .perex{
     font-style: normal;
@@ -100,8 +157,8 @@ h3{
 .top-image{
     width: 100%;
     height: calc(max-width);
-    border-radius: 100%;
-    background-color: #C4C4C4;
+    // border-radius: 100%;
+    // background-color: #C4C4C4;
     text-align: center
 }
 
@@ -121,23 +178,23 @@ hr{
     }
 }
 
-.button{
+button, .button{
     cursor: pointer;
-    border: none;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
-    display: inline-block;
-    width: 18.75rem;
-    font-size: 1.5rem;
-    line-height: 1.75rem;
-    text-align: center;
-    margin: .5rem;
-    margin-left: .5rem;
-    margin-right: .5rem;
-    @include themed(){
-        background-color: t($button-bg);
-        color: t($button-txt);
-    }
+    // border: none;
+    // padding-top: .5rem;
+    // padding-bottom: .5rem;
+    // display: inline-block;
+    // width: 18.75rem;
+    // font-size: 1.5rem;
+    // line-height: 1.75rem;
+    // text-align: center;
+    // margin: .5rem;
+    // margin-left: .5rem;
+    // margin-right: .5rem;
+    // @include themed(){
+    //     background-color: t($button-bg);
+    //     color: t($button-txt);
+    // }
 }
 
 ul{
@@ -192,4 +249,20 @@ p{
     display: inline-block;
     content: " ";
     margin-right: 1rem;
+}
+
+.white-bg{
+    background-color: #FFFFFF;
+    width: 100%;
+    padding-top: 3rem;
+    @include respond-above(xl){
+        margin-left: -9.875rem;
+        padding-left: 9.875rem;
+        padding-right: 9.975rem;
+    }
+    @include respond-below(xl){
+        margin-left: calc(-12.5%);
+        padding-left: 12.5%;
+        padding-right: 12.5%;
+    }
 }

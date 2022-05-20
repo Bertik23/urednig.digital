@@ -1,20 +1,41 @@
 label{
     display: block;
-    font-size: 2rem;
-    line-height: 2.25rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 120%;
 }
 
 input[type=text], input[type=email]{
-    height: 4.5rem;
-    min-width: 40rem;
-    margin-top: .5rem;
-    margin-bottom: .5rem;
-    // display: block;
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    border-radius: 1.875rem;
+    height: 3.75rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 120%;
+    width: 37.5rem;
+    max-width: 100%;
 }
 
 input[type=checkbox]{
-    width: 1rem;
-    height: 1rem;
+    width: 1.875rem;
+    height: 1.875rem;
     vertical-align: middle;
     line-height: 2.25rem;
+    background: #FFFFFF;
+    // border: 0.1875rem solid #000000;
+    // border-radius: 0.3125rem;
+    border: 3px solid #000000;
+    border-radius: 5px;
+}
+
+label.margin-bt{
+    margin-bottom: 1.875rem;
+}
+label.margin-tp{
+    margin-top: 1.875rem;
 }

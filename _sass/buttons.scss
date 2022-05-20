@@ -1,0 +1,28 @@
+button, .button{
+    border-radius: 1.875rem;
+    height: 3.75rem;
+    width: 15.9375rem;
+    border: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.8125rem;
+    background-color: #00000000;
+}
+
+button.bold, .button.bold{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 1.8125rem;
+}
+
+button.border, .button.border{
+    border: 3px solid #000000;
+}
+
+button.fill, .button.fill{
+    background-color: #FFFFFF;
+}

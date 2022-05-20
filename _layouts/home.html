@@ -7,16 +7,19 @@ layout: default
         <h1>Úřady digitálně a lidsky</h1>
         <div class="perex">Vzděláváme, sdílíme, síťujeme a budujeme komunitu. Zapojte se viz níže</div>
     </div>
-    <div class="top-image">
-        <span>ilustrace</span>
-    </div>
+    <!-- <div class="top-image"> -->
+        <img class="top-image" alt="člověk venčí §" src="{{ "/assets/images/Ilustrace 1.svg" | relative_url }}">
+    <!-- </div> -->
 </div>
 
+
+<div class="white-bg">
 <h2 class="center">
     Eventy
 </h2>
 
 {% include event_scroll.html title="Proběhlé eventy" events=site.events%}
+</div>
 
 {% include something_more.html text="Máme pro vás něco navíc" link1url="/metodika" link1text="Metodika" link2url="/diskuse" link2text="Diskuse"%}
 

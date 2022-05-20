@@ -6,14 +6,16 @@
     align-items: center;
     padding: 3.3125rem;
 
+    border-radius: 6.25rem;
+
     margin-bottom: 5rem;
 
-    @include themed(){
-        background-color: t($navbar-bg);
-    }
+    background-color: #0808FE;
+    color: #ffffff;
 }
 
 .something-more-links{
+    color: initial;
     justify-self: end;
     text-align: center;
 }
@@ -31,10 +33,6 @@
     margin: .5rem;
     margin-left: .5rem;
     margin-right: .5rem;
-    @include themed(){
-        background-color: t($navbutton-bg);
-        color: t($navbutton-txt);
-    }
 }
 
 .something-more-text{

@@ -1,8 +1,9 @@
 <div class="navbar">
     <div class="brand">
-        <a href="/">Úředník.digital</a>
+        <a href="/"><img alt="logo Úřední.Digital" src="{{ "/assets/images/Logo.svg" | relative_url }}"></a>
     </div>
-    <div class="nav-links">
+    <a id="nav-toggle" href="#" aria="off" class="nav-toggle not-md" onclick="toggleNav()">Menu Toggle</a>
+    <div id="nav-menu" class="nav-links md">
         {% for navItem in site.data.navbar %}
             {% if navItem.group == "start" %}
                 <div class="nav-group">
@@ -16,3 +17,15 @@
         {% endfor %}
     </div>
 </div>
+
+<script lang="js">
+    function toggleNav(){
+        if (document.getElementById("nav-menu").classList.contains("md")){
+            document.getElementById("nav-menu").classList.remove("md");
+            document.getElementById("nav-toggle").setAttribute("aria","on");
+        } else {
+            document.getElementById("nav-menu").classList.add("md");
+            document.getElementById("nav-toggle").setAttribute("aria","off");
+        }
+    }
+</script>

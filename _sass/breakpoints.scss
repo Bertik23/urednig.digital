@@ -118,3 +118,17 @@ $breakpoints: (
         display: none;
     }
 }
+
+.md{
+    display: none;
+    @include respond-above(md){
+        display: initial;
+    }
+}
+
+.not-md{
+    display: initial;
+    @include respond-above(md){
+        display: none;
+    }
+}

@@ -1,29 +1,27 @@
+<div class="background"></div>
 <div class="footer">
-    <div class="footer-main-text">
-        {{ site.data.footer.main }}
-    </div>
-    <div class="footer-secondary-text">
-        {{ site.data.footer.secondary }}
-    </div>
-    <div class="footer-nav">
-        <div class="footer-cookies">
-            {{ site.data.footer.cookies }}
-        </div>
-        <div class="footer-contacts">
-            Kontakty
-            <ul>
-            {% for contact in site.data.footer.contacts %}
-                <li>{{ contact }}</li>
-            {% endfor %}
-            </ul>
-        </div>
-        <div class="footer-social">
-            {% for soc in site.data.footer.social %}
-                <a aria-label={{ soc.name }} href={{ soc.link }}>{{ soc.icon }}</a>
-            {% endfor %}
+    <div>
+        <h2 class="footer-main-text">
+            {{ site.data.footer.main }}
+        </h2>
+        <h3 class="footer-secondary-text">
+            {{ site.data.footer.secondary }}
+        </h3>
+        <div class="footer-nav">
+            <div class="footer-cookies">
+                {{ site.data.footer.cookies | markdownify }}
+            </div>
+            <div class="footer-copyright">
+                {{ site.data.footer.copyright }}
+            </div>
+            <div class="footer-logo">
+                <a href="https://cesko.digital"><img alt="logo Česko.Digital" src="{{ "/assets/images/cdLogo.svg" | relative_url }}"></a>
+            </div>
         </div>
     </div>
-    <div class="footer-copyright">
-        {{ site.data.footer.copyright }}
+    <div class="footer-social">
+        {% for soc in site.data.footer.social %}
+            <a aria-label={{ soc.name }} href={{ soc.link }}>{{ soc.icon }}</a>
+        {% endfor %}
     </div>
 </div>

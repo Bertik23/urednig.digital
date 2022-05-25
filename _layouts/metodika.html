@@ -4,13 +4,14 @@ layout: default
 <div class="top-grid">
     <div>{{content}}</div>
     <div class=top-box>
-        <div class="dark-box">
+        <div class="download-box">
             <h2>Ke stažení</h2>
             <ul class="download-list">
                 {% for document in page.files %}
-                    <li><a href={{document.url}}>{{document.name}}</a></li>
+                    <li><h4><a href={{document.url}}>{{document.name}}</a></h4></li>
                 {% endfor %}
             </ul>
+            <a href="#" class="button fill border">Stáhnout vše</a>
         </div>
     </div>
 </div>

@@ -238,16 +238,16 @@ p{
 }
 
 .download-list li{
-    font-size: 1.5rem;
-    line-height: 1.75rem;
+    margin-bottom: 0.75rem;
+    margin-top: 0.75rem;
 }
 
 .download-list li a::before{
     background-color: white;
-    width: 1rem;
-    height: 1rem;
+    width: 2rem;
+    height: 1.375rem;
     display: inline-block;
-    content: " ";
+    content: url(../icons/down_arrow.svg);
     margin-right: 1rem;
 }
 
@@ -265,4 +265,11 @@ p{
         padding-left: 12.5%;
         padding-right: 12.5%;
     }
+}
+
+.download-box{
+    color: $ceskodigital;
+    background-color: #FFFFFF;
+    border-radius: 1.875rem;
+    padding: 1.875rem;
 }

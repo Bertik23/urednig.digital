@@ -5,28 +5,29 @@ layout: default
 <div class="top-grid">
     <div>
         <h1>Co děláme</h1>
-        <div class="perex">{{ page.what }}</div>
+        <div class="perex">{{ page.why }}</div>
     </div>
-    <div class="top-image">
-        <span>ilustrace</span>
-    </div>
+    <img class="top-image" alt="člověk objímá §" src="{{ "/assets/images/Ilustrace 2.svg" | relative_url }}">
     <div>
-        <h2>Zapojte se</h2>
+        <h2>Čím se zabýváme</h2>
         <div>
-            {{ page.join | markdownify}}
+            {{ page.what | markdownify}}
         </div>
     </div>
-    <div class="dark-box">
+    <div class="white-box">
         <h2>Kontakty</h2>
-        <ul>
+        <p class="black">{{page.contactsText}}</p>
+        <ul class="contactList">
             {% for contact in page.contacts %}
-                <li class="list">{{contact}}</li>
+                <li>
+                    <h4><a aria-label={{ contact.name }} href={{ contact.link }}>{{ contact.icon }} {{ contact.name }}</a></h4>
+                </li>
             {% endfor %}
         </ul>
     </div>
 </div>
 
-<h2 class="center">Náš tým</h2>
+<h2 class="center blue">Náš tým</h2>
 {% for division in page.team %}
     <h3 class="center">{{division.name}}</h3>
     <div class="team-member-grid center">
@@ -40,14 +41,19 @@ layout: default
     </div>
 {% endfor %}
 
-<h2 class="center">Kdo za projektem stojí</h2>
+<h2 class="blue">Kdo za projektem stojí</h2>
 <div class="about-communities">
+    {% for community in page.behind %}
     <div>
-        <h2>Česko.digital</h2>
-        <p>Jako komunita expertních dobrovolníků měníme Česko k lepšímu.</p>
-        <p>Máme za sebou projekty úspěšné doma i ve světě.</p>
-        <p>Víme, že pomocí IT dokážeme dosáhnout velkých věcí, které stojí méně a fungují lépe.</p>
+        <h2>{{ community.name }}</h2>
+        <img alt="{{community.name}} logo" src="{{community.logo}}">
+        <ul>
+            {% for point in community.points %}
+                <li>{{point}}</li>
+            {% endfor %}
+        </ul>
     </div>
+    {% endfor %}
     <div>
         <h2>Další</h2>
         <p>Jako komunita expertních dobrovolníků měníme Česko k lepšímu.</p>

@@ -2,9 +2,20 @@
 layout: default
 ---
 <div class="top-grid">
-    <div>{{content}}</div>
+    <div>{{content}}
+        {% for box in page.blocks %}
+            <div class="white-box">
+                {{ box | markdownify}}
+            </div>
+            {% if page.blocks.last != box %}
+            <div class="center y1rem y-1rem">
+                <img class="center" alt="arrow down" src="{{ "/assets/icons/down_arrow.svg" | relative_url }}">
+            </div>
+            {% endif %}
+        {% endfor %}
+    </div>
     <div class=top-box>
-        <div class="download-box">
+        <div class="white-box blue">
             <h2>Ke stažení</h2>
             <ul class="download-list">
                 {% for document in page.files %}

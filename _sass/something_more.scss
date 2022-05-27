@@ -10,14 +10,38 @@
 
     margin-bottom: 5rem;
 
-    background-color: #0808FE;
+    background-color: $ceskodigital;
     color: #ffffff;
+
+    @include respond-below(md){
+        border-radius: 0;
+        grid-template-columns: auto;
+        padding-left: 12.5%;
+        padding-right: 12.5%;
+        margin-left: calc(-12.5%);
+        margin-right: calc(-12.5%);
+        row-gap: 2rem;
+    }
 }
 
 .something-more-links{
+    display: grid;
     color: initial;
     justify-self: end;
     text-align: center;
+    vertical-align: middle;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    column-gap: .5rem;
+
+    @include respond-below(xl){
+        grid-template-columns: auto;
+        row-gap: 1rem;
+    }
+
+    @include respond-below(md){
+        justify-self: center;
+    }
 }
 
 

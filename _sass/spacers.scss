@@ -1,9 +1,17 @@
 @for $i from 1 through 10{
     .y#{$i}rem{
-        margin-top: calc($i * 1rem);
+        margin-top: $i * 1rem;
     }
 
     .x#{$i}rem{
-        margin-left: calc($i * 1rem);
+        margin-left: $i * 1rem;
+    }
+
+    .y-#{$i}rem{
+        margin-bottom: $i * 1rem;
+    }
+
+    .x-#{$i}rem{
+        margin-right: $i * 1rem;
     }
 }

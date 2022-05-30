@@ -1,5 +1,6 @@
 ---
 layout: metodika
+permalink: /metodika
 files:
     - name: Metodika
       url: /

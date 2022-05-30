@@ -6,6 +6,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <title>Úředník.Digital - {{page.title}}</title>
+{% assign url = site.url, page.url %}
+<meta property="og:url" content="{{ page.url | prepend: site.url }}">
+<meta property="og:title" content="Úředník.Digital - {{page.title}}">
+<meta property="og:description" content="Úředník.Digital popis">
+<meta property="og:locale" content="cs_CZ">
+<meta property="og:type" content="article">
 
 <!-- Toggle theme -->
 <script>

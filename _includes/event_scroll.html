@@ -1,26 +1,26 @@
 <div class="event-scroll">
     <div class="event-scroll-head">
-        <h3>{{include.title}}</h3>
+        <h2 class="blue">{{include.title}}</h2>
         <div class="scroll-control">
             <button
                 class="event-scroll-control-button"
                 onclick="$(this.parentNode.parentNode.parentNode.getElementsByClassName('event-scroll-events')[0]).trigger('prev.owl.carousel')">
-                    <i class="bi bi-chevron-left"></i>
+                    <img src="{{ "/assets/icons/left_arrow.svg" | relative_url }}" alt="šipka doleva">
             </button>
             <button
                 class="event-scroll-control-button"
                 onclick="$(this.parentNode.parentNode.parentNode.getElementsByClassName('event-scroll-events')[0]).trigger('next.owl.carousel')">
-                <i class="bi bi-chevron-right"></i>
+                    <img src="{{ "/assets/icons/right_arrow.svg" | relative_url }}" alt="šipka doprava">
             </button>
         </div>
     </div>
     <div class="event-scroll-events owl-carousel">
         {% for event in include.events %}
-            <div class="event-small">
+            <div class="event-small white-box">
                 <img class=event-small-image src={{ event.image }} alt="titulní obrázek eventu">
-                <div class="event-small-title">{{event.title}}</div>
-                <p class="event-annotation">{{ event.annotation }}</p>
-                <a href={{event.url}} class="event-read-more">Read more</a>
+                <h3 class="blue y1rem">{{event.title}}</h3>
+                <p class="y-1rem y1rem">{{ event.annotation }}</p>
+                <a href={{event.url}}>Read more</a>
             </div>
         {% endfor %}
         <script>
@@ -42,5 +42,8 @@
                 }
             })
         </script>
+    </div>
+    <div class="center">
+        <a class="button fill black event-scroll-more-button">Zobrazit další</a>
     </div>
 </div>

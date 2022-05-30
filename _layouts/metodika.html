@@ -17,12 +17,12 @@ layout: default
     <div class=top-box>
         <div class="white-box blue">
             <h2>Ke stažení</h2>
-            <ul class="download-list">
+            <ul class="download-list y-3rem">
                 {% for document in page.files %}
-                    <li><h4><a href={{document.url}}>{{document.name}}</a></h4></li>
+                    <li><h4><a class="blue" href={{document.url}}>{{document.name}}</a></h4></li>
                 {% endfor %}
             </ul>
-            <a href="#" class="button fill border">Stáhnout vše</a>
+            <a href="#" class="button fill border black w100">Stáhnout vše</a>
         </div>
     </div>
 </div>

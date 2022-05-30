@@ -20,7 +20,7 @@ layout: default
         <ul class="contactList">
             {% for contact in page.contacts %}
                 <li>
-                    <h4><a aria-label={{ contact.name }} href={{ contact.link }}>{{ contact.icon }} {{ contact.name }}</a></h4>
+                    <h4><a class=blue aria-label={{ contact.name }} href={{ contact.link }}>{{ contact.icon }} {{ contact.name }}</a></h4>
                 </li>
             {% endfor %}
         </ul>

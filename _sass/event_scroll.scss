@@ -21,7 +21,8 @@
 .event-small-image{
     display: block;
     max-height: 13.4375rem;
-    max-width: 18.75rem;
+    max-width: 20.3125;
+    border-radius: .3125rem;
 }
 
 .event-small-title{
@@ -50,20 +51,10 @@
 .event-scroll-control-button{
     width: 3.125rem;
     height: 3.125rem;
-    border: none;
-    border-radius: 100%;
-    font-size: 2rem;
-    @include themed(){
-        background-color: t($navbutton-bg);
-        color: t($navbutton-txt);
-    }
 }
 
 .event-scroll-control-button:hover{
     cursor: pointer;
-    @include themed(){
-        background-color: darken(t($navbutton-bg), 20%);
-    }
 }
 
 .event-annotation{
@@ -79,4 +70,8 @@
     @include themed(){
         color: t($readmore);
     }
+}
+
+.event-scroll-more-button{
+    position: relative;
 }

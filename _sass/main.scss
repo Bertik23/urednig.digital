@@ -11,6 +11,7 @@
 @import "fonts";
 @import "buttons";
 @import "spacers";
+@import "background";
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto');
 
@@ -46,8 +47,8 @@ body{
     grid-template-columns: 100%;
     width: 100%;
     // background-color: #F9DFB5;
-    background: rgb(249,223,181);
-    background: linear-gradient(90deg, rgba(249,223,181,1) 2%, rgba(255,255,255,1) 100%);
+    // background: rgb(249,223,181);
+    // background: linear-gradient(90deg, rgba(249,223,181,1) 2%, rgba(255,255,255,1) 100%);
 }
 
 

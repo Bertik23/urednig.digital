@@ -1,0 +1,19 @@
+.color-blob-1, .color-blob-2, .color-blob-3{
+    position: absolute;
+    width: 100%;
+    height: 64rem;
+    z-index: -999;
+    filter: blur(50vw);
+    overflow: -moz-hidden-unscrollable;
+}
+
+.color-blob-1{
+    left: -50vw;
+    background-color: $orange;
+}
+
+.color-blob-2{
+    top: 125rem;
+    //left: 50vw;
+    background-color: $ceskodigital;
+}

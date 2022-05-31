@@ -1,6 +1,7 @@
 ---
 layout: metodika
 permalink: /metodika
+title: Metodika
 files:
     - name: Metodika
       url: /

@@ -2,6 +2,7 @@
 
 .event-title-image{
     width: 100%;
+    border-radius: .3125rem;
 }
 
 .event-title-annotation{
@@ -11,3 +12,32 @@
     line-height: 1.75rem;
 }
 
+.last-event-image{
+    max-width: 45.3125rem;
+    max-height: 25.625rem;
+    margin: -1.875rem;
+    vertical-align: center;
+    border-radius: 0.3125rem;
+}
+
+.last-event-grid{
+    display: grid;
+    column-gap: calc(2.25rem + 1.875rem);
+    grid-template-columns: 1fr 1fr;
+
+    @include respond-below(md){
+        grid-template-columns: auto;
+        row-gap: calc(1.125rem + 1.875rem);
+    }
+}
+
+.event-content{
+    @include respond-above(md){
+        padding-left: calc(16rem - 9.875rem);
+        padding-right: calc(16rem - 9.875rem);
+    }
+}
+
+.event-content p{
+    margin-bottom: 2rem;
+}

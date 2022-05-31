@@ -12,6 +12,17 @@ layout: default
     <!-- </div> -->
 </div>
 
+<div class="white-box y-5rem">
+    {% assign event = site.events | first %}
+    <div class="last-event-grid">
+        <img alt="" class="last-event-image" src="{{ event.image }}">
+        <div>
+            <h2>{{ event.title }}</h2>
+            <p>{{ event.annotation }}</p>
+            <a href={{event.url}}>Read more</a>
+        </div>
+    </div>
+</div>
 
 <div class="white-bg">
     {% include event_scroll.html title="Proběhlé eventy" events=site.events%}

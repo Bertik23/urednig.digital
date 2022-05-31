@@ -2,15 +2,19 @@
 layout: default
 ---
 
-<img class="event-title-image" src={{page.image}}>
+<img alt="" class="event-title-image y-7rem" src={{page.image}}>
 
-<h1>{{page.title}}</h1>
-<div class="event-title-annotation">{{page.annotation}}</div>
+<div class="event-content y-2rem">
+    <h1>{{page.title}}</h1>
+    <div class="perex">{{page.annotation}}</div>
 
-{% include call_to_action.html %}
+    <a class="button border black inline-block y3rem y-3rem">To mě zajímá</a>
 
-{{ content }}
+    {{ content }}
+</div>
 
-{% include event_scroll.html title="Proběhlé eventy" events=site.events%}
+<div class="white-bg">
+    {% include event_scroll.html title="Proběhlé eventy" events=site.events%}
+</div>
 
 {% include something_more.html text="Máme pro vás něco navíc" link1url="/metodika" link1text="Metodika" link2url="/diskuse" link2text="Diskuse"%}

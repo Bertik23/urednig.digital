@@ -61,3 +61,14 @@ collections:
 markdown: kramdown
 kramdown:
   input: GFM
+
+defaults:
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

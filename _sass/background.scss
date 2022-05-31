@@ -7,13 +7,19 @@
     overflow: -moz-hidden-unscrollable;
 }
 
-.color-blob-1{
-    left: -50vw;
-    background-color: $orange;
-}
+// .color-blob-1{
+//     left: -50vw;
+//     background-color: $orange;
+// }
 
-.color-blob-2{
-    top: 125rem;
-    //left: 50vw;
-    background-color: $ceskodigital;
+// .color-blob-2{
+//     top: 125rem;
+//     //left: 50vw;
+//     background-color: $ceskodigital;
+// }
+
+body{
+    background-image: url(../images/Background.svg);
+    background-repeat: no-repeat;
+    //background-size: 100% 291.375rem;
 }

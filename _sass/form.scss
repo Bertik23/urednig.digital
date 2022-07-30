@@ -33,6 +33,20 @@ input[type=checkbox]{
     border-radius: 5px;
 }
 
+input[type=checkbox]::before{
+    display: inline-block;
+    content: "";
+    width: 1.875rem;
+    height: 1.875rem;
+    vertical-align: middle;
+    line-height: 2.25rem;
+    background: #FFFFFF;
+    // border: 0.1875rem solid #000000;
+    // border-radius: 0.3125rem;
+    border: 3px solid #000000;
+    border-radius: 5px;
+}
+
 label.margin-bt{
     margin-bottom: 1.875rem;
 }

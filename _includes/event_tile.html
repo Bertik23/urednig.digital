@@ -1,0 +1,24 @@
+{% assign event = include.event %}
+
+<div class="event-small white-box">
+    {% if event.image %}
+        <img class=event-small-image src={{ event.image }} alt="titulní obrázek eventu">
+    {% endif %}
+    <h3 class="blue y1rem">{{event.title}}</h3>
+    {% if event.annotation %}
+        <p class="y-1rem y1rem">{{ event.annotation }}</p>
+    {% else %}
+        <p class="y-1rem y1rem">{{ event.content | strip_html | slice: 0, 248 }}...</p>
+    {% endif %}
+    {% if event.more_url %}
+        <a href={{event.more_url}}>
+    {% else %}
+        <a href={{event.url}}>
+    {% endif %}
+    {% if include.more_text %}
+        {{include.more_text}}
+    {% else %}
+        Read more
+    {% endif %}
+    </a>
+</div>

@@ -25,16 +25,16 @@ layout: default
 </div>
 
 <div class="white-bg">
-    {% include event_scroll.html title="Proběhlé eventy" events=site.events%}
+    {% include event_scroll.html title="Eventy" events=site.events more_link="/eventy" %}
 </div>
 
 {% include something_more.html text="Máme pro vás něco navíc" link1url="/metodika" link1text="Metodika" link2url="/diskuse" link2text="Diskuse"%}
 
 <div class="white-bg">
-    {% include event_scroll.html title="Záznamy eventů" events=site.events%}
+    {% include event_scroll.html title="Záznamy eventů" events=site.done_events more_text="Spustit" more_link="/zaznamy" %}
 </div>
 
 
 <div>
-    {% include event_scroll.html title="Blog" events=site.events%}
+    {% include event_scroll.html title="Blog" events=site.posts more_link="/blog" %}
 </div>

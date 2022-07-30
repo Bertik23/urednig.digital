@@ -37,6 +37,8 @@ plugins:
 collections:
   events:
     output: true
+  done_events:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -66,6 +68,11 @@ defaults:
   - scope:
       path: ""
       type: "events"
+    values:
+      layout: "event"
+  - scope:
+      path: ""
+      type: "post"
     values:
       layout: "event"
   - scope:

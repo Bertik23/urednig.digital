@@ -16,12 +16,7 @@
     </div>
     <div class="event-scroll-events owl-carousel">
         {% for event in include.events %}
-            <div class="event-small white-box">
-                <img class=event-small-image src={{ event.image }} alt="titulní obrázek eventu">
-                <h3 class="blue y1rem">{{event.title}}</h3>
-                <p class="y-1rem y1rem">{{ event.annotation }}</p>
-                <a href={{event.url}}>Read more</a>
-            </div>
+            {% include event_tile.html event=event more_text=include.more_text%}
         {% endfor %}
         <script>
             $(document.scripts[document.scripts.length-1].parentNode).owlCarousel({
@@ -43,7 +38,7 @@
             })
         </script>
     </div>
-    <div class="center">
-        <a class="button fill black event-scroll-more-button">Zobrazit další</a>
+    <div class="center y2rem">
+        <a class="button fill black event-scroll-more-button" href="{{include.more_link}}">Zobrazit další</a>
     </div>
 </div>

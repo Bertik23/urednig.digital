@@ -13,11 +13,15 @@
 }
 
 .last-event-image{
-    max-width: 45.3125rem;
-    max-height: 25.625rem;
+    max-width: calc(100% + calc(2.25rem + 1.875rem));
+    //max-height: 25.625rem;
     margin: -1.875rem;
-    vertical-align: center;
+    vertical-align: middle;
+    align-self: center;
     border-radius: 0.3125rem;
+    @include respond-below(md){
+        max-width: calc(100% + 3.75rem);
+    }
 }
 
 .last-event-grid{

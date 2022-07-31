@@ -19,13 +19,13 @@ layout: default
         <div>
             <h2>{{ event.title }}</h2>
             <p>{{ event.annotation }}</p>
-            <a href={{event.url}}>Read more</a>
+            <a href={{event.url}}>Detail akce</a>
         </div>
     </div>
 </div>
 
 <div class="white-bg">
-    {% include event_scroll.html title="Eventy" events=site.events more_link="/eventy" %}
+    {% include event_scroll.html title="Eventy" events=site.events more_link="/eventy" more_text="Detail akce" %}
 </div>
 
 {% include something_more.html text="Máme pro vás něco navíc" link1url="/metodika" link1text="Metodika" link2url="/diskuse" link2text="Diskuse"%}
@@ -36,5 +36,5 @@ layout: default
 
 
 <div>
-    {% include event_scroll.html title="Blog" events=site.posts more_link="/blog" %}
+    {% include event_scroll.html title="Blog" events=site.posts more_link="/blog" more_text="Číst dále" %}
 </div>

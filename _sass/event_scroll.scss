@@ -13,9 +13,18 @@
 }
 
 .event-small{
-    // display: inline-block;
+    display: block;
     max-width: 18.75rem;
     // grid-template-columns: auto auto;
+    margin-bottom: .3rem;
+}
+
+.event-small:hover{
+    box-shadow: .1rem .1rem rgba($color: #000000, $alpha: .1);
+}
+
+.owl-dots{
+    display: none;
 }
 
 .event-small-image{

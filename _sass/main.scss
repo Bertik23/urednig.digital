@@ -28,6 +28,10 @@ a{
     color: $link;
 }
 
+a:hover, button:hover{
+    text-decoration: underline;
+}
+
 html{
     height: 100%;
     width: 100%;
@@ -102,6 +106,7 @@ h2{
     font-weight: 700;
     line-height: 48px;
     letter-spacing: 0em;
+    margin-bottom: 1.25rem;
 }
 
 h3{
@@ -116,6 +121,7 @@ h1 {
     font-weight: 600;
     line-height: 79px;
     letter-spacing: 0em;
+    margin-bottom: 3.125rem;
 }
 
 h4 {
@@ -131,6 +137,7 @@ h4 {
     font-weight: normal;
     font-size: 3rem;
     line-height: 3.5rem;
+    margin-bottom: 3.125rem;
 }
 
 .top-image{

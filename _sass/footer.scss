@@ -30,7 +30,7 @@ footer{
     padding-bottom: 1.75rem;
 
     column-gap: 1rem;
-    column-gap: 2rem;
+    column-gap: 6.25rem;
 
     background-color: transparentize($ceskodigital, .7);
     backdrop-filter: blur(500rem);
@@ -85,6 +85,7 @@ footer{
 
     grid-template-rows: 1fr 1fr 1fr;
     justify-items: center;
+    row-gap: 1.5rem;
 
     @include respond-below(md){
         grid-template-columns: 1fr 1fr 1fr;

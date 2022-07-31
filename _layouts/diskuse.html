@@ -12,16 +12,17 @@ layout: default
 <p>
     Po odeslání formuláře se dostaneš na náš Slack, ve kterém probíhá veškerá komunikace o projektech a mezi členy komunity. Tam tě také hned přivítá robot, který ti pomůže s orientací v komunitních kanálech a předá ti další důležité informace.
 </p>
-
+<div class="y5rem"></div>
 <form>
     <h2>Představ se</h2>
     <label for="name" class="margin-tp margin-bt">Jméno</label>
     <input id="name" type="text" name="name">
     <label for="email" class="margin-tp margin-bt">Email</label>
     <input id="email" type="email" name="email" placeholder="@">
+    <div class="y3rem"></div>
     <h3>Mám zájem o</h3>
     {% for topic in page.topics %}
-        <label for={{topic.id}}><input id="{{topic.id}}" type="checkbox" name="topic" value={{topic.id}}>{{topic.name}}</label>
+        <label for={{topic.id}} class="margin-bt"><input id="{{topic.id}}" type="checkbox" name="topic" value={{topic.id}}>{{topic.name}}</label>
     {% endfor %}
     <button type="submit" class="border">Odeslat</button>
 </form>

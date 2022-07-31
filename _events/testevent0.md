@@ -3,7 +3,7 @@ title: Lipsum Funguje to CMS vůbec?
 annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
   labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut
   cillum dolore.
-image: https://source.unsplash.com/collection/430471/ # https://picsum.photos/2000/1000
+image: /assets/images/1067-1600x900.jpg # https://source.unsplash.com/collection/430471/ # https://picsum.photos/2000/1000
 layout: event
 date: 2022-03-03T13:21:23.215Z
 ---

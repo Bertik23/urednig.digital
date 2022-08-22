@@ -17,8 +17,9 @@ layout: default
     <div class="last-event-grid">
         <img alt="" class="last-event-image" src="{{ event.image }}">
         <div>
-            <h2>{{ event.title }}</h2>
+            <a href="{{event.url}}" class="black"><h2>{{ event.title }}</h2></a>
             <p>{{ event.annotation }}</p>
+            <div class="y1rem"></div>
             <a href={{event.url}}>Detail akce</a>
         </div>
     </div>

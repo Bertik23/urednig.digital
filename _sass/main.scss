@@ -95,9 +95,9 @@ main{
 
 p {
     font-family: Inter;
-    font-size: 16px;
+    font-size: 1.25rem;
     font-weight: 400;
-    line-height: 19px;
+    line-height: 1.5rem;
     letter-spacing: 0em;
 }
 
@@ -285,8 +285,10 @@ ul.contactList li{
 }
 
 .gridlist{
+    margin-left: -2rem;
+    margin-right: -2rem;
     display: grid;
     justify-content: center;
     gap: 1rem 1rem;
-    grid-template-columns: repeat(auto-fill, 20rem);
+    grid-template-columns: repeat(auto-fill, 22.5rem);
 }

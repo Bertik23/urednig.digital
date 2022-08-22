@@ -22,7 +22,7 @@ layout: default
     <div class="y3rem"></div>
     <h3>Mám zájem o</h3>
     {% for topic in page.topics %}
-        <label for={{topic.id}} class="margin-bt"><input id="{{topic.id}}" type="checkbox" name="topic" value={{topic.id}}>{{topic.name}}</label>
+        <input id="{{topic.id}}" type="checkbox" name="topic" value={{topic.id}}><label for={{topic.id}} class="margin-bt">{{topic.name}}</label>
     {% endfor %}
     <button type="submit" class="border">Odeslat</button>
 </form>

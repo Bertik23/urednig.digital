@@ -1,7 +1,10 @@
 ---
-title: Lipsum
-annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut cillum dolore.
-image: /assets/images/1067-1600x900.jpg #https://source.unsplash.com/collection/430471/
+title: Lipsum Zkouška jestli funguje
+annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
+  labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut
+  cillum dolore.
+date: 2022-09-23T08:21:17.085Z
+image: /assets/images/1067-1600x900.jpg
 ---
 
 Lorem ipsum dolor sit amet, et reprehenderit occaecat laboris nisi est sint Lorem elit. Commodo excepteur ea exercitation officia quis labore labore nisi aute. Adipisicing nostrud enim ut in cupidatat laboris culpa in in tempor. Ad nisi eiusmod officia ea. Amet nostrud dolor quis ex. Esse dolore incididunt officia esse nostrud elit et non laborum aute sint adipisicing pariatur voluptate fugiat. Irure id dolor voluptate reprehenderit irure officia eiusmod in id.

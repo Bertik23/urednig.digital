@@ -84,6 +84,16 @@ collections:
           - label: Body
             name: body
             widget: markdown
+      - label: Home
+        name: home
+        file: index.markdown
+        fields:
+          - label: Titulek
+            name: h1
+            widget: string
+          - label: Perex
+            name: perex
+            widget: string
   - name: 'config'
     label: 'Config'
     editor:

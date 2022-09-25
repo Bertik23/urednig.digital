@@ -8,18 +8,18 @@ image: /assets/uploads/fb-event.jpg
 ---
 <!--StartFragment-->
 
-<h3>PROČ</h3>
+<h2>PROČ</h2>
 
 Byrokracie, která je kompetentnější a sebevědomější při řešení velkých sociálních, ekonomických a politických výzev naší doby – to je to, co chceme podporovat.
 
-<h3>JAK</h3>
+<h2>JAK</h2>
 
 Chceme kultivovat pozitivní vztah
  k veřejnému sektoru a také větší
  odhodlání a chuť k experimentu
  a inovaci ve veřejné správě.
 
-<h3>C﻿O</h3>
+<h2>C﻿O</h2>
 
 Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojence – ty, kteří na všech úrovních státní správy i samosprávy mění svět k lepšímu. Oslavuje inovace ve veřejném sektoru a jejich přínos k lepšímu, udržitelnějšímu a spravedlivějšímu světu. Hledá odpovědi na otázky a výzvy úředního světa skrze odborné diskuse i praktické workshopy.
 

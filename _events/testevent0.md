@@ -13,10 +13,6 @@ date: 2022-03-03T13:21:23.215Z
 
 #### **Proč to děláme? <br>**
 
-﻿<!--StartFragment-->
-
-<!--EndFragment-->
-
 Chceme propojovat, podporovat a inspirovat veřejnou správu. <br> Chceme ukazovat, jak to dělat dobře (kde co je “to” určují politici, ale “jak” je něco, co můžeme ovlivnit i my - štíhlý a efektivní stát jsou dvě osy, o každé z nich rozhoduje někdo jiný).<br>
 Chceme pomáhat tvořit spolupracující prostředí.<br>
 Chceme proměnit vnímání veřejné správy směrem k lepšímu.<br>

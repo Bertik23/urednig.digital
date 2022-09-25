@@ -19,6 +19,12 @@ Chceme proměnit vnímání veřejné správy směrem k lepšímu.<br>
 Chceme podporovat civic-tech.<br>
 Veřejná správa kompetentnější, důvěryhodnější a sebevědomější.
 
+
+
+![](/assets/uploads/fb-event.jpg)
+
+
+
 #### **Jaká témata chceme na akci prezentovat nebo otevřít?**
 
 <ul> 
@@ -39,7 +45,7 @@ Veřejná správa kompetentnější, důvěryhodnější a sebevědomější.
 
 <li>KISK a Laďka Zbiejczuk - vzdělávání úředníků</li>
 
-* sila:
+<li>sila:</li>
 
 <ul>
 

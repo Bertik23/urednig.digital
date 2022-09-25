@@ -21,7 +21,7 @@ Chceme kultivovat pozitivní vztah
 
 <li><h3>C﻿O</h3>
 
-Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojence – ty, kteří na všech úrovních státní správy i samosprávy mění svět k lepšímu. Oslavuje inovace ve veřejném sektoru a jejich přínos k lepšímu, udržitelnějšímu a spravedlivějšímu světu. Hledá odpovědi na otázky a výzvy úředního světa skrze odborné diskuse i praktické workshopy.</ul>
+Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojence – ty, kteří na všech úrovních státní správy i samosprávy mění svět k lepšímu. Oslavuje inovace ve veřejném sektoru a jejich přínos k lepšímu, udržitelnějšímu a spravedlivějšímu světu. Hledá odpovědi na otázky a výzvy úředního světa skrze odborné diskuse i praktické workshopy.</ul><br>
 
 <!--EndFragment-->
 

@@ -11,14 +11,12 @@ date: 2022-03-03T13:21:23.215Z
 
 **Kde?** Praha, CAMP
 
-#### **Proč to děláme?**
+#### **Proč to děláme? <br>**
 
-Chceme propojovat, podporovat a inspirovat veřejnou správu.
-
-Chceme ukazovat, jak to dělat dobře (kde co je “to” určují politici, ale “jak” je něco, co můžeme ovlivnit i my - štíhlý a efektivní stát jsou dvě osy, o každé z nich rozhoduje někdo jiný). 
-Chceme pomáhat tvořit spolupracující prostředí.
-Chceme proměnit vnímání veřejné správy směrem k lepšímu.
-Chceme podporovat civic-tech.
+Chceme propojovat, podporovat a inspirovat veřejnou správu. <br> Chceme ukazovat, jak to dělat dobře (kde co je “to” určují politici, ale “jak” je něco, co můžeme ovlivnit i my - štíhlý a efektivní stát jsou dvě osy, o každé z nich rozhoduje někdo jiný).<br>
+Chceme pomáhat tvořit spolupracující prostředí.<br>
+Chceme proměnit vnímání veřejné správy směrem k lepšímu.<br>
+Chceme podporovat civic-tech.<br>
 Veřejná správa kompetentnější, důvěryhodnější a sebevědomější.
 
 #### **Jaká témata chceme na akci prezentovat nebo otevřít?**

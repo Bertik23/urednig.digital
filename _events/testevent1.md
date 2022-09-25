@@ -23,7 +23,7 @@ CO
 
 PŘI PRVNÍM ROČNÍKU FESTIVALU JSME SI POLOŽILI ZEJMÉNA TYTO OTÁZKY:
 
-<h5>Kreativní byrokracie a organizační kultura</h5> <br>
+<h4>**Kreativní byrokracie a organizační kultura**</h4> <br>
 Jak je potřeba proměnit organizační
 kulturu, aby se veřejná instituce
 otevřela inovacím?

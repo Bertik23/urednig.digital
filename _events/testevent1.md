@@ -23,18 +23,18 @@ Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojen
 
 <br><br><h4>PŘI PRVNÍM ROČNÍKU FESTIVALU JSME SI POLOŽILI ZEJMÉNA TYTO OTÁZKY:</h4><br>
 
-<li><h3>Kreativní byrokracie a organizační kultura</h3>
+<li><h4>Kreativní byrokracie a organizační kultura</h4>
 
 Jak je potřeba proměnit organizační kulturu, aby se veřejná instituce otevřela inovacím?<br>
 
-<li><h3>Děláme to dobře – ale jak to měříme?</h3>
+<li><h4>Děláme to dobře – ale jak to měříme?</h4>
 Děláme svou práci dobře, umíme to ale změřit v sektoru, který není definován ziskem?<br>
 
-<li><h3>Zjednodušení a digitální stezky k němu</h3>
+<li><h4>Zjednodušení a digitální stezky k němu</h4>
 Jak vypadá úřad, ve kterém jsou digitální nástroje cestou k dostupnější veřejné službě?<br>
 
-<li><h3>Říkej mi to něžně!</h3>
+<li><h4>Říkej mi to něžně!</h4>
 Jak dobře mluvit o tom, co děláme mezi sebou i s ostatními a neposílat nesrozumitelná lejstra?<br>
 
-<li><h3>Data jako hnací hřídel byrokracie</h3>
+<li><h4>Data jako hnací hřídel byrokracie</h4>
 A jaké možnosti nám otevírají nová a velká data?

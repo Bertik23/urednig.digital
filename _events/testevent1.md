@@ -25,7 +25,7 @@ Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojen
 
 <!--EndFragment-->
 
-<h3>PŘI PRVNÍM ROČNÍKU FESTIVALU JSME SI POLOŽILI ZEJMÉNA TYTO OTÁZKY:</h3>
+<h4>PŘI PRVNÍM ROČNÍKU FESTIVALU JSME SI POLOŽILI ZEJMÉNA TYTO OTÁZKY:</h4>
 
 <ul><li><h3>Kreativní byrokracie a organizační kultura</h3>
 

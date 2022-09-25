@@ -21,38 +21,50 @@ Veřejná správa kompetentnější, důvěryhodnější a sebevědomější.
 
 #### **Jaká témata chceme na akci prezentovat nebo otevřít?**
 
-NEB - spolupráce evropských měst
+<ul> 
 
-OSPO - ukázka dobré praxe z jiné evropské země
+<li>NEB - spolupráce evropských měst</li>
 
-Civic-tech obsah - někdo, kdo není zaměstnancem veřejné správy, prezentace tech nástrojů usnadňujících dosahování cílů veřejné správy
+<li>OSPO - ukázka dobré praxe z jiné evropské země</li>
 
-Code 4 All - use cases ze zahraničí
+<li>Civic-tech obsah - někdo, kdo není zaměstnancem veřejné správy, prezentace tech nástrojů usnadňujících dosahování cílů veřejné správy</li>
 
-projekt s PPF a jejich otevřenými daty
+<ul>
 
-KISK a Laďka Zbiejczuk - vzdělávání úředníků
+<li>Code 4 All - use cases ze zahraničí</li>
 
-sila:
+</ul>
 
-meziresortní skupina pro digitalizaci ve vzdělávání?
+<li>Projekt s PPF a jejich otevřenými daty</li>
 
-Učíme online - Jiří Nekola - spolupráce nezisku (komunity) a veřejné instituce (NPI ČR)
+<li>KISK a Laďka Zbiejczuk - vzdělávání úředníků</li>
 
-spolupráce mezi státem a komerčním sektorem - Zajíček?
+<li>sila:</li>
 
-Vodafone a projekt Rok jinak
+<ul>
 
-nástroje - rotace a mentorship
+<li>meziresortní skupina pro digitalizaci ve vzdělávání?</li>
 
-Klub digitálních úředníků - a příklad nějakého podobného fungujícího klubu
+<li>Učíme online - Jiří Nekola - spolupráce nezisku (komunity) a veřejné instituce (NPI ČR)</li>
 
-slovenský Klub úředníků dobré vůle
+<li>spolupráce mezi státem a komerčním sektorem - Zajíček?</li>
 
-kick-off Klubu inovativních úředníků, profesní zájem o změnové řízení
+<li>Vodafone a projekt Rok jinak</li>
 
-VZP a pražský magistrát - ukázat načaté případovky založené na pilotních projektech, proběhly by nějaké workshopy před festivalem a tam by se prezentoval stav, ukázat, jak to může fungovat
+<li>nástroje - rotace a mentorship</li>
 
-zástupce EK z kabinetu Jourové - Jáchym Hercher
+<li>Klub digitálních úředníků - a příklad nějakého podobného fungujícího klubu</li>
 
-akcentovat rozdíl mezi veřejnou správou a politickou reprezentací
+<li>slovenský Klub úředníků dobré vůle</li>
+
+<li>kick-off Klubu inovativních úředníků, profesní zájem o změnové řízení</li>
+
+</ul>
+
+<li>VZP a pražský magistrát - ukázat načaté případovky založené na pilotních projektech, proběhly by nějaké workshopy před festivalem a tam by se prezentoval stav, ukázat, jak to může fungovat</li>
+
+<li>zástupce EK z kabinetu Jourové - Jáchym Hercher</li>
+
+<li>akcentovat rozdíl mezi veřejnou správou a politickou reprezentací</li>
+
+</ul>

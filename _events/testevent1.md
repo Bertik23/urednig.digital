@@ -41,4 +41,4 @@ Jak vypadá úřad, ve kterém jsou digitální nástroje cestou k dostupnějš�
 Jak dobře mluvit o tom, co děláme mezi sebou i s ostatními a neposílat nesrozumitelná lejstra?
 
 <li><h3>Data jako hnací hřídel byrokracie</h3>
-A jaké možnosti nám otevírají nová a velká data?
+A jaké možnosti nám otevírají nová a velká data?</ul>

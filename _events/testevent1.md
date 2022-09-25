@@ -19,13 +19,7 @@ Chceme kultivovat pozitivní vztah k veřejnému sektoru a také větší odhodl
 <!--StartFragment-->
 
 **Termín:** 8. - 9.11.2021\
-**Místo:** CAMP - Centrum architektury a městského plánování Vyšehradská 51, 128 00 Praha
-
-**Moderátoři za Č.D.:** Dana Vaníčková (Country Director IDC)
-
-**Organizátoři akce:** Kreativní Praha, Česko.Digital a Institut plánování a rozvoje hl. m. Prahy
-
-**Partneři:** Magistrát hl. m. Praha a Deloitte
+**Místo:** CAMP - Centrum architektury a městského plánování Vyšehradská 51, 128 00 Praha<br>**Moderátoři za Č.D.:** Dana Vaníčková (Country Director IDC)<br>**Organizátoři akce:** Kreativní Praha, Česko.Digital a Institut plánování a rozvoje hl. m. Prahy<br>**Partneři:** Magistrát hl. m. Praha a Deloitte
 
 **Cílová skupina:**
 

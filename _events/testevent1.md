@@ -72,17 +72,11 @@ Chceme kultivovat pozitivní vztah k veřejnému sektoru a také větší odhodl
 * Zaseknout se na debatě, že pro poskytování kvalitních služeb se musí změnit zákon.
 * **Řešení "produktu" na workshopu nesmí přesáhnout rámec festivalu** => nikdo by neměl říct, že pro implementaci např. nějakého procesu se musí změnit zákon, počkat na povolení managementu aj.
 
-  * Z toho důvodu **hledám pro událost statečný úřad**, který je ochotný poslat na festival lidi z různých úrovní organizace: praktiky, náměstky, management.
-
  
 
 **Co mají řečníci, diváci a účastníci workshopu zažít na vlastní kůži?**
 
 * Tvorbu hotového "produktu", který může pomoci už teď, bez změny zákona a obměny politické garnitury. Tento "produkt" pak ideálně aspoň jeden úřad implementuje do praxe.
-
-"Produkt" píšu v uvozovkách, protože ještě nemáme určeno, co to bude.
-
-**Pracovní plocha** s nápady je [ZDE](https://miro.com/app/board/o9J_l94jlQI=/?fromRedirect=1 "https\://miro.com/app/board/o9J_l94jlQI=/?fromRedirect=1").
 
  
 

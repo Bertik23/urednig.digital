@@ -32,7 +32,7 @@ Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojen
 Jak je potřeba proměnit organizační kulturu, aby se veřejná instituce otevřela inovacím?<br>
 
 <li><h3>Děláme to dobře – ale jak to měříme?</h3>
-Děláme svou práci dobře, umíme to ale změřit v sektoru, který není definován ziskem?
+Děláme svou práci dobře, umíme to ale změřit v sektoru, který není definován ziskem?<br>
 
 <li><h3>Zjednodušení a digitální stezky k němu</h3>
 Jak vypadá úřad, ve kterém jsou digitální nástroje cestou k dostupnější veřejné službě?<br>

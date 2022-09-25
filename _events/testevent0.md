@@ -39,7 +39,7 @@ Veřejná správa kompetentnější, důvěryhodnější a sebevědomější.
 
 <li>KISK a Laďka Zbiejczuk - vzdělávání úředníků</li>
 
-<li>sila:</li>
+* sila:
 
 <ul>
 

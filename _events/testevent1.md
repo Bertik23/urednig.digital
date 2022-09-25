@@ -37,12 +37,8 @@ Děláme svou práci dobře, umíme to ale změřit v sektoru, který není defi
 </ul><ul><li><h3>Zjednodušení a digitální stezky k němu</h3>
 Jak vypadá úřad, ve kterém jsou digitální nástroje cestou k dostupnější veřejné službě?
 
-Říkej mi to něžně!
-Jak dobře mluvit o tom, co děláme
-mezi sebou i s ostatními a neposílat
-nesrozumitelná lejstra?
+</ul><ul><li><h3>Říkej mi to něžně!</h3>
+Jak dobře mluvit o tom, co děláme mezi sebou i s ostatními a neposílat nesrozumitelná lejstra?
 
-Data jako hnací
-hřídel byrokracie
-A jaké možnosti nám
-otevírají nová a velká data?
+</ul><ul><li><h3>Data jako hnací hřídel byrokracie</h3>
+A jaké možnosti nám otevírají nová a velká data?

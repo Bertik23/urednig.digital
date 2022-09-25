@@ -33,14 +33,14 @@ Chceme kultivovat pozitivní vztah k veřejnému sektoru a také větší odhodl
 
 **Vize, proč se událost pořádá, má několik rovin:**
 
-* ##### Propojení úředníků, kterým hrozí vyhoření, jsou frustrovaní a cítí se samy 
+* Propojení úředníků, kterým hrozí vyhoření, jsou frustrovaní a cítí se samy 
 
-  * ##### budování komunity profesionálů ve státní správě
-  * ##### networking
-  * ##### podpora jejich motivace
-  * ##### vytvoření profesní sítě (na začátku #egovernment-club na Slacku, později platforma)
-* ##### Podpora komunikace soukromého, neziskového a veřejného sektoru.
-* ##### Pokus o zvýšení prestiže práce pro úřad, získat zájem mladých lidí o práci pro stát.
+  * budování komunity profesionálů ve státní správě
+  * networking
+  * podpora jejich motivace
+  * vytvoření profesní sítě 
+* Podpora komunikace soukromého, neziskového a veřejného sektoru.
+* Pokus o zvýšení prestiže práce pro úřad, získat zájem mladých lidí o práci pro stát.
 
  
 
@@ -52,13 +52,13 @@ Chceme kultivovat pozitivní vztah k veřejnému sektoru a také větší odhodl
 * Dopoledne dvě **panelové diskuze** + **dotazy** z publika. Diskuze je "otevírákem" workshopu, který na ní bude navazovat.
 * **Témata** (draft)
 
-  * ##### Organizační kultury a proč na nich záleží
-  * ##### Děláme to báječně. Ale jak to měříme?
-  * ##### Tudy ne, přátelé!
-  * ##### **Digitální budoucnost**
-  * ##### **Data jako hnací hřídel byrokracie**
-  * ##### Říkej mi to něžně
-  * ##### Veřejní služebníci
+  * Organizační kultury a proč na nich záleží
+  * Děláme to báječně. Ale jak to měříme?
+  * Tudy ne, přátelé!
+  * **Digitální budoucnost**
+  * **Data jako hnací hřídel byrokracie**
+  * Říkej mi to něžně
+  * Veřejní služebníci
 * Po obědě dva **workshopy** (Digitální budoucnost a Data jako hnací hřídel byrokracie), jejichž výstupem má být **použitelný "produkt"**, např. ve formě UX návrhu, nově navrženého digitálního procesu aj.
 * Večer **párty** s povídáním o nepovedených projektech - tato část bude předem připravená.
 
@@ -82,8 +82,8 @@ Chceme kultivovat pozitivní vztah k veřejnému sektoru a také větší odhodl
 
 **Jak se můžete zapojit?**
 
-* ##### Jako **řečník** k některému z témat. V panelové diskuzi se nebudeme bavit o nepovedených projektech, ale budeme hledat řešení na jednu věc, kterou s ostatními řečníky předem vybereme - vše **s ohledem na současné legislativní a kulturní prostředí**.
-* ##### Jako **účastník** v publiku, který si přijde užít atmosféru a poznat nové lidi :)
-* ##### Můžete nám pomoci **tipy** na kolegy z jiných úřadů, které by událost mohla zaujmout. Ať už jako řečníka, nebo účastníka. Na festival potřebujeme pozvat lidi, kteří mají rozhodovací slovo v tom, jestli "produkt" vyzkouší na svém úřadě v praxi.
+* Jako **řečník** k některému z témat. V panelové diskuzi se nebudeme bavit o nepovedených projektech, ale budeme hledat řešení na jednu věc, kterou s ostatními řečníky předem vybereme - vše **s ohledem na současné legislativní a kulturní prostředí**.
+* Jako **účastník** v publiku, který si přijde užít atmosféru a poznat nové lidi :)
+* Můžete nám pomoci **tipy** na kolegy z jiných úřadů, které by událost mohla zaujmout. Ať už jako řečníka, nebo účastníka. Na festival potřebujeme pozvat lidi, kteří mají rozhodovací slovo v tom, jestli "produkt" vyzkouší na svém úřadě v praxi.
 
 <!--EndFragment-->

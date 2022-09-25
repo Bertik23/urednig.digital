@@ -69,4 +69,4 @@ Veřejná správa kompetentnější, důvěryhodnější a sebevědomější.
 
 </ul>
 
-![](/assets/uploads/logo-hlavní-01.svg)
+![](/assets/uploads/logo_hlavní_1-01.svg)

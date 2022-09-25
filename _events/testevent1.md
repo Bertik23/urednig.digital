@@ -29,8 +29,8 @@ Chceme kultivovat pozitivní vztah k veřejnému sektoru a také větší odhodl
 
 **Cílová skupina:**
 
-* Úředníci
-* Potencionální úředníci; studenti, kteří přemýšlí o svém budoucím povolání
-* Soukromý sektor spolupracující se státní sférou
+* #### Úředníci
+* #### Potencionální úředníci; studenti, kteří přemýšlí o svém budoucím povolání
+* #### Soukromý sektor spolupracující se státní sférou
 
 <!--EndFragment-->

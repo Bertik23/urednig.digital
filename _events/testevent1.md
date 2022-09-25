@@ -8,20 +8,20 @@ image: /assets/uploads/fb-event.jpg
 ---
 <!--StartFragment-->
 
-<h3>PROČ</h3>
+<ul><li><h3>PROČ</h3>
 
 Byrokracie, která je kompetentnější a sebevědomější při řešení velkých sociálních, ekonomických a politických výzev naší doby – to je to, co chceme podporovat.
 
-<h3>JAK</h3>
+<li><h3>JAK</h3>
 
 Chceme kultivovat pozitivní vztah
  k veřejnému sektoru a také větší
  odhodlání a chuť k experimentu
  a inovaci ve veřejné správě.
 
-<h3>C﻿O</h3>
+<li><h3>C﻿O</h3>
 
-Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojence – ty, kteří na všech úrovních státní správy i samosprávy mění svět k lepšímu. Oslavuje inovace ve veřejném sektoru a jejich přínos k lepšímu, udržitelnějšímu a spravedlivějšímu světu. Hledá odpovědi na otázky a výzvy úředního světa skrze odborné diskuse i praktické workshopy.
+Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojence – ty, kteří na všech úrovních státní správy i samosprávy mění svět k lepšímu. Oslavuje inovace ve veřejném sektoru a jejich přínos k lepšímu, udržitelnějšímu a spravedlivějšímu světu. Hledá odpovědi na otázky a výzvy úředního světa skrze odborné diskuse i praktické workshopy.</ul>
 
 <!--EndFragment-->
 
@@ -31,14 +31,14 @@ Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojen
 
 Jak je potřeba proměnit organizační kulturu, aby se veřejná instituce otevřela inovacím?
 
-</ul><ul><li><h3>Děláme to dobře – ale jak to měříme?</h3>
+<li><h3>Děláme to dobře – ale jak to měříme?</h3>
 Děláme svou práci dobře, umíme to ale změřit v sektoru, který není definován ziskem?
 
-</ul><ul><li><h3>Zjednodušení a digitální stezky k němu</h3>
+<li><h3>Zjednodušení a digitální stezky k němu</h3>
 Jak vypadá úřad, ve kterém jsou digitální nástroje cestou k dostupnější veřejné službě?
 
-</ul><ul><li><h3>Říkej mi to něžně!</h3>
+<li><h3>Říkej mi to něžně!</h3>
 Jak dobře mluvit o tom, co děláme mezi sebou i s ostatními a neposílat nesrozumitelná lejstra?
 
-</ul><ul><li><h3>Data jako hnací hřídel byrokracie</h3>
+<li><h3>Data jako hnací hřídel byrokracie</h3>
 A jaké možnosti nám otevírají nová a velká data?

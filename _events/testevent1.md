@@ -6,28 +6,24 @@ annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
 date: 2022-09-23T08:21:17.085Z
 image: /assets/uploads/fb-event.jpg
 ---
-<!--StartFragment-->
-
-<ul><li><h3>PROČ</h3>
+<ul><li><h4>PROČ</h4>
 
 Byrokracie, která je kompetentnější a sebevědomější při řešení velkých sociálních, ekonomických a politických výzev naší doby – to je to, co chceme podporovat.
 
-<li><h3>JAK</h3>
+<li><h4>JAK</h4>
 
 Chceme kultivovat pozitivní vztah
  k veřejnému sektoru a také větší
  odhodlání a chuť k experimentu
  a inovaci ve veřejné správě.
 
-<li><h3>C﻿O</h3>
+<li><h4>C﻿O</h4>
 
-Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojence – ty, kteří na všech úrovních státní správy i samosprávy mění svět k lepšímu. Oslavuje inovace ve veřejném sektoru a jejich přínos k lepšímu, udržitelnějšímu a spravedlivějšímu světu. Hledá odpovědi na otázky a výzvy úředního světa skrze odborné diskuse i praktické workshopy.</ul><br>
-
-<!--EndFragment-->
+Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojence – ty, kteří na všech úrovních státní správy i samosprávy mění svět k lepšímu. Oslavuje inovace ve veřejném sektoru a jejich přínos k lepšímu, udržitelnějšímu a spravedlivějšímu světu. Hledá odpovědi na otázky a výzvy úředního světa skrze odborné diskuse i praktické workshopy.<br>
 
 <h4>PŘI PRVNÍM ROČNÍKU FESTIVALU JSME SI POLOŽILI ZEJMÉNA TYTO OTÁZKY:</h4><br>
 
-<ul><li><h3>Kreativní byrokracie a organizační kultura</h3>
+<li><h3>Kreativní byrokracie a organizační kultura</h3>
 
 Jak je potřeba proměnit organizační kulturu, aby se veřejná instituce otevřela inovacím?<br>
 
@@ -41,4 +37,4 @@ Jak vypadá úřad, ve kterém jsou digitální nástroje cestou k dostupnějš�
 Jak dobře mluvit o tom, co děláme mezi sebou i s ostatními a neposílat nesrozumitelná lejstra?<br>
 
 <li><h3>Data jako hnací hřídel byrokracie</h3>
-A jaké možnosti nám otevírají nová a velká data?</ul>
+A jaké možnosti nám otevírají nová a velká data?

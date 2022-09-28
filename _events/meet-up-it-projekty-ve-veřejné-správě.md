@@ -77,8 +77,6 @@ Uslyšíte také o **agilitě** jako o nástroji, který vám usnadní práci.
 
 **Na Ministerstvu spravedlnosti si uvědomují potřebu vlastníka projektu.** Proto vytvořili **oddělení business analytiků**, kteří dokážou popsat provoz a logiku svěřených informačních systémů a pomoci dodavateli porozumět vývojovým požadavkům. Umí mluvit s dodavatelem na úrovni partnera.
 
-> <br>
-
 ### **Debata ukázala, že je nutné změnit paradigma**
 
 Zadavatele, kteří se bojí zkoušet neověřené postupy podpořit a motivovat je, aby byli odvážní a cítili osobní odpovědnost za úspěch zakázky. 
@@ -88,7 +86,5 @@ K tomu potřebují vhodné prostředí, zejména podporu managementu.
 Pomůže sdílení dobré praxe mezi úřady, navazování kontaktu s odborníky a otevřený dialog se soukromou i akademickou sférou.
 
 Jakákoli standardizace procesů nebo dokumentů, která ušetří čas, zejména v přípravné fázi, má pro úředníky velký význam.
-
-
 
 <!--EndFragment-->

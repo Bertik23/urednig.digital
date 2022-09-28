@@ -6,6 +6,16 @@ annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
 date: 2022-09-28T08:55:00.000Z
 image: /assets/uploads/fb-event.jpg
 ---
+<!--StartFragment-->
+
+Byrokracie, která je kompetentnější a sebevědomější při řešení velkých sociálních, ekonomických a politických výzev naší doby – to je to, co chceme podporovat.
+
+Festival kreativní byrokracie podporuje a propojuje úředníky a jejich spojence – ty, kteří na všech úrovních státní správy i samosprávy mění svět k lepšímu. Oslavuje inovace ve veřejném sektoru a jejich přínos k lepšímu, udržitelnějšímu a spravedlivějšímu světu. Hledá odpovědi na otázky a výzvy úředního světa skrze odborné diskuse i praktické workshopy.
+
+Chceme kultivovat pozitivní vztah k veřejnému sektoru a také větší odhodlání a chuť k experimentu a inovaci ve veřejné správě.
+
+<!--EndFragment--><br>
+
 <ul><li><h4>PROČ</h4>
 
 Byrokracie, která je kompetentnější a sebevědomější při řešení velkých sociálních, ekonomických a politických výzev naší doby – to je to, co chceme podporovat.

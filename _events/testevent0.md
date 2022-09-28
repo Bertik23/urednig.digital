@@ -3,7 +3,7 @@ title: Creative Bureaucracy Festival 2022
 annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
   labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut
   cillum dolore.
-image: /assets/uploads/fb-event.jpg
+image: /assets/uploads/ig-02.jpg
 layout: event
 date: 2022-03-03T13:21:23.215Z
 ---

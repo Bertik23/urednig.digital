@@ -1,7 +1,7 @@
 ---
 title: "Meet-up: IT projekty ve veřejné správě"
 date: 2022-09-28T21:04:58.952Z
-image: /assets/uploads/meetup26.01..jpg
+image: /assets/uploads/ig-02.jpg
 ---
 Jak se liší pohled na projekty ve veřejné správě z pohledu dodavatele, zadavatele a komunity Česko.Digital? To jsme si poslechli na diskuzi, kterou jsme organizovali právě s Česko.Digital a Projektovým klubem. 
 
@@ -77,7 +77,7 @@ Uslyšíte také o **agilitě** jako o nástroji, který vám usnadní práci.
 
 **Na Ministerstvu spravedlnosti si uvědomují potřebu vlastníka projektu.** Proto vytvořili **oddělení business analytiků**, kteří dokážou popsat provoz a logiku svěřených informačních systémů a pomoci dodavateli porozumět vývojovým požadavkům. Umí mluvit s dodavatelem na úrovni partnera.
 
-### **Debata ukázala, že je nutné změnit paradigma**
+### **<br>Debata ukázala, že je nutné změnit paradigma**
 
 Zadavatele, kteří se bojí zkoušet neověřené postupy podpořit a motivovat je, aby byli odvážní a cítili osobní odpovědnost za úspěch zakázky. 
 
@@ -86,5 +86,3 @@ K tomu potřebují vhodné prostředí, zejména podporu managementu.
 Pomůže sdílení dobré praxe mezi úřady, navazování kontaktu s odborníky a otevřený dialog se soukromou i akademickou sférou.
 
 Jakákoli standardizace procesů nebo dokumentů, která ušetří čas, zejména v přípravné fázi, má pro úředníky velký význam.
-
-<!--EndFragment-->

@@ -1,16 +1,47 @@
 ---
-title: Lipsum
-annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut cillum dolore.
-image: /assets/images/1067-1600x900.jpg # https://source.unsplash.com/collection/430471/
+title: Vendor lock-in v hlavní roli
+annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
+  labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut
+  cillum dolore.
+date: 2022-09-28T20:52:07.395Z
+image: /assets/uploads/banner_vendor_lock.jpg
 ---
+Vendor lock-in, neboli uzamčení zákazníka v závislosti konkrétního dodavatele, je určitě téma, které dlouhodobě trápí veřejnou správu napříč všemi jejími stupni. Jako Principal engineering, společně s Česko.Digital a zástupci společností Deloitte a Havel & Partners jsme se rozhodli tomuto tématu podívat "pod pokličku".
 
-Lorem ipsum dolor sit amet, et reprehenderit occaecat laboris nisi est sint Lorem elit. Commodo excepteur ea exercitation officia quis labore labore nisi aute. Adipisicing nostrud enim ut in cupidatat laboris culpa in in tempor. Ad nisi eiusmod officia ea. Amet nostrud dolor quis ex. Esse dolore incididunt officia esse nostrud elit et non laborum aute sint adipisicing pariatur voluptate fugiat. Irure id dolor voluptate reprehenderit irure officia eiusmod in id.
-Dolore voluptate velit nulla cillum. Quis magna dolore excepteur sint id labore. Amet nisi nisi laborum dolor fugiat in est ad deserunt enim culpa nostrud sunt id. Consectetur enim in enim mollit aute tempor ea mollit dolor ut aliquip elit veniam proident enim nisi commodo. Consequat Lorem sunt occaecat deserunt qui.
-Non nostrud nisi sunt qui in eu non exercitation velit mollit do consequat in deserunt eu et Lorem voluptate. Non ea id voluptate officia exercitation. Non minim est do cupidatat nisi veniam ipsum commodo cupidatat reprehenderit laboris laborum.
-Ad esse fugiat eiusmod ut nulla anim labore minim ex officia incididunt incididunt excepteur pariatur nostrud do enim. Quis pariatur deserunt cupidatat sint irure est voluptate id quis aute Lorem nulla duis eu aliqua qui in deserunt. Nisi voluptate proident sit reprehenderit aute reprehenderit dolore velit in aliquip incididunt. Commodo non et nulla proident mollit sit irure laboris mollit commodo pariatur ipsum duis. Aliqua sit cupidatat commodo eu non amet adipisicing.
-Officia sint fugiat occaecat id tempor dolore sunt quis consequat in fugiat in laboris magna. Ipsum ipsum aliqua fugiat minim sint aute ad adipisicing. Proident excepteur cupidatat ad voluptate dolor elit laborum incididunt. Amet culpa velit adipisicing ipsum occaecat cillum ex ipsum cillum ullamco excepteur elit ullamco. Reprehenderit nulla commodo fugiat. Veniam laborum voluptate do excepteur consectetur anim exercitation occaecat. Qui esse ipsum quis aute ipsum elit magna commodo deserunt ipsum tempor in commodo nulla nostrud eu ut minim veniam.
-Laboris qui sunt reprehenderit consectetur. Excepteur nisi eiusmod minim et commodo sint nostrud. Ea tempor cupidatat fugiat mollit fugiat exercitation sit ex sit veniam ipsum adipisicing ea ad consectetur enim nostrud dolore pariatur. Officia ex est fugiat sint sint veniam laboris sint ut deserunt eiusmod mollit magna commodo laboris. Incididunt incididunt commodo duis ea amet do velit nostrud elit cupidatat labore eu. Nisi ipsum nostrud ea enim ad aliqua ipsum dolore. Tempor consectetur dolore cillum.
-Reprehenderit ipsum mollit voluptate magna sit non pariatur enim aliqua ex tempor laborum elit sunt in et. Sint adipisicing eu nostrud elit aute. Deserunt labore duis veniam nisi incididunt eu do nisi anim. Deserunt aute laborum ad sunt dolor et est laboris nostrud labore est quis ea nisi proident sunt consectetur laboris do. Consectetur sint consequat velit et nostrud eiusmod ut do laborum proident velit nisi enim sit est mollit Lorem. Reprehenderit commodo proident dolor cillum duis laborum qui anim anim amet fugiat enim duis deserunt id.
-Ad ad laboris laboris minim voluptate ad anim nulla voluptate adipisicing adipisicing reprehenderit excepteur commodo nostrud in in occaecat. Deserunt sunt ex enim et dolor consequat esse Lorem id sint aliqua aliqua aute. Minim labore tempor sunt cupidatat id do aute sit. Lorem sit fugiat commodo. Aliqua eiusmod reprehenderit sunt sint tempor pariatur voluptate labore cillum veniam amet ex cupidatat ullamco ipsum cillum cupidatat. Laboris quis officia laborum sint ea aliquip. Ea est nostrud labore labore veniam laboris. Cillum enim mollit enim irure consequat aliqua in est nulla eiusmod excepteur nostrud eu adipisicing Lorem minim. Aliqua eu reprehenderit deserunt sunt duis nostrud tempor.
-Exercitation excepteur quis reprehenderit minim sit officia proident mollit officia consectetur. Proident veniam sunt ea. Ea laborum ipsum excepteur excepteur.
-Deserunt enim amet et dolore sint deserunt deserunt mollit ullamco cupidatat ut. Voluptate esse excepteur pariatur. Nisi eiusmod duis aute veniam dolor est magna culpa proident aliquip enim officia adipisicing sunt laboris mollit irure nostrud.
+Z diskuze vedené odborníky, kteří se tématem zabývají dlouhá léta, si odnesete nejen možnosti řešení vendor lock-in, ale také to, proč by se o to měli úředníci a širší veřejnost zajímat.
+
+Diskuze bude skrz naskrz prošpikována zkušenostmi z praxe, které s Vámi chceme sdílet.
+
+ 
+
+#### Co si z panelové diskuze odnesete?
+
+* Jaká jsou rizika spojená s vendor lock-in
+* Jak nebýt závislý pouze na jednom dodavateli
+* Proč se o tom diskutuje právě ve státní a veřejné správě
+* Čím bývá uzamčení zákazníka nejčastěji způsobeno
+* Jaké jsou přínosy odstranění vendor lock-inu
+* Ukázky řešení vendor lock-inu na praktických případech
+
+![](blob:https://cesko-digital.atlassian.net/cb7a3730-d51f-403a-9948-6b364a5e29e7#media-blob-url=true&id=01855871-8ec2-4bf1-8c92-f1e4c137f85a&collection=contentId-486866709&contextId=486866709&mimeType=image%2Fjpeg&name=Vendor%20lock%20final.jpg&size=3654810&height=4134&width=3508&alt=)
+
+#### Jak bude akce probíhat?
+
+Každý z řečníků panelové diskuze Vám během 5 minut stručně představí vlastní pohled na vendor lock-in založený na vlastních zkušenostech. Poté bude následovat samotná panelová diskuze a prostor pro dotazy a příspěvky do diskuze.
+
+**Staňte se součástí naší panelové diskuze a zapojte se svými názory.**
+
+#### Úvodní pětiminutovky:
+
+* Filip Neterda: O princezně ITěnce uzavřené v SW hradu rytíře Drsoně
+* Ondrej Čurilla: Současný zákon o zadávání veřejných zakázek ohledně vendor locku
+* Eva Pavlíková: Motivace a kompetence zadavatele
+* Bronislav Neubauer: Jak řídit dodavatele, kterého ve vendor locku mám a potřebuji jej vyměnit
+* Petr Kadlec: Doporučení pro zadavatele
+* Ondrej Čurilla a Petr Kadlec: Jak se vendor – locku zbavit nebo s ním žít tam, kde fakticky být musí
+
+#### Moderátor diskuze
+
+* Míra Vlach z [Projektového klubu](https://projektovyklub.weebly.com/ "https\://projektovyklub.weebly.com/"), nezávislé diskuzní platformy zaměřující se na sdílení manažerských zkušeností a rozvoj projektových manažerů.
+
+![](/assets/uploads/vendor-lock-in.jpg)

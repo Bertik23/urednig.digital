@@ -1,7 +1,7 @@
 ---
 title: "Meet-up: IT projekty ve veřejné správě"
 date: 2022-09-28T21:04:58.952Z
-image: /assets/uploads/meetup26.01..png
+image: /assets/uploads/meetup26.01..jpg
 ---
 Jak se liší pohled na projekty ve veřejné správě z pohledu dodavatele, zadavatele a komunity Česko.Digital? To jsme si poslechli na diskuzi, kterou jsme organizovali právě s Česko.Digital a Projektovým klubem. 
 

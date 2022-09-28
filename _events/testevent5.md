@@ -1,16 +1,77 @@
 ---
-title: Lipsum
-annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut cillum dolore.
-image: /assets/images/1067-1600x900.jpg # https://source.unsplash.com/collection/430471/
+title: "eGovernment: Digitální stát jako drive inovací a růstu"
+annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
+  labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut
+  cillum dolore.
+date: 2022-09-28T21:00:48.383Z
+image: /assets/uploads/czechsetgo.jpeg
 ---
+Konkurenceschopnost České republiky jde ruku v ruce s digitalizací státu, jeho institucí a firem. Připojte se k názorové platformě CzechSetGo, která chce pomocí inovací a technologií zvýšit konkurenceschopnost Česka ve světě. Podpořte přes Česko.Digital projekty, které uspíší inovační a technologický rozmach České republiky.
 
-Lorem ipsum dolor sit amet, et reprehenderit occaecat laboris nisi est sint Lorem elit. Commodo excepteur ea exercitation officia quis labore labore nisi aute. Adipisicing nostrud enim ut in cupidatat laboris culpa in in tempor. Ad nisi eiusmod officia ea. Amet nostrud dolor quis ex. Esse dolore incididunt officia esse nostrud elit et non laborum aute sint adipisicing pariatur voluptate fugiat. Irure id dolor voluptate reprehenderit irure officia eiusmod in id.
-Dolore voluptate velit nulla cillum. Quis magna dolore excepteur sint id labore. Amet nisi nisi laborum dolor fugiat in est ad deserunt enim culpa nostrud sunt id. Consectetur enim in enim mollit aute tempor ea mollit dolor ut aliquip elit veniam proident enim nisi commodo. Consequat Lorem sunt occaecat deserunt qui.
-Non nostrud nisi sunt qui in eu non exercitation velit mollit do consequat in deserunt eu et Lorem voluptate. Non ea id voluptate officia exercitation. Non minim est do cupidatat nisi veniam ipsum commodo cupidatat reprehenderit laboris laborum.
-Ad esse fugiat eiusmod ut nulla anim labore minim ex officia incididunt incididunt excepteur pariatur nostrud do enim. Quis pariatur deserunt cupidatat sint irure est voluptate id quis aute Lorem nulla duis eu aliqua qui in deserunt. Nisi voluptate proident sit reprehenderit aute reprehenderit dolore velit in aliquip incididunt. Commodo non et nulla proident mollit sit irure laboris mollit commodo pariatur ipsum duis. Aliqua sit cupidatat commodo eu non amet adipisicing.
-Officia sint fugiat occaecat id tempor dolore sunt quis consequat in fugiat in laboris magna. Ipsum ipsum aliqua fugiat minim sint aute ad adipisicing. Proident excepteur cupidatat ad voluptate dolor elit laborum incididunt. Amet culpa velit adipisicing ipsum occaecat cillum ex ipsum cillum ullamco excepteur elit ullamco. Reprehenderit nulla commodo fugiat. Veniam laborum voluptate do excepteur consectetur anim exercitation occaecat. Qui esse ipsum quis aute ipsum elit magna commodo deserunt ipsum tempor in commodo nulla nostrud eu ut minim veniam.
-Laboris qui sunt reprehenderit consectetur. Excepteur nisi eiusmod minim et commodo sint nostrud. Ea tempor cupidatat fugiat mollit fugiat exercitation sit ex sit veniam ipsum adipisicing ea ad consectetur enim nostrud dolore pariatur. Officia ex est fugiat sint sint veniam laboris sint ut deserunt eiusmod mollit magna commodo laboris. Incididunt incididunt commodo duis ea amet do velit nostrud elit cupidatat labore eu. Nisi ipsum nostrud ea enim ad aliqua ipsum dolore. Tempor consectetur dolore cillum.
-Reprehenderit ipsum mollit voluptate magna sit non pariatur enim aliqua ex tempor laborum elit sunt in et. Sint adipisicing eu nostrud elit aute. Deserunt labore duis veniam nisi incididunt eu do nisi anim. Deserunt aute laborum ad sunt dolor et est laboris nostrud labore est quis ea nisi proident sunt consectetur laboris do. Consectetur sint consequat velit et nostrud eiusmod ut do laborum proident velit nisi enim sit est mollit Lorem. Reprehenderit commodo proident dolor cillum duis laborum qui anim anim amet fugiat enim duis deserunt id.
-Ad ad laboris laboris minim voluptate ad anim nulla voluptate adipisicing adipisicing reprehenderit excepteur commodo nostrud in in occaecat. Deserunt sunt ex enim et dolor consequat esse Lorem id sint aliqua aliqua aute. Minim labore tempor sunt cupidatat id do aute sit. Lorem sit fugiat commodo. Aliqua eiusmod reprehenderit sunt sint tempor pariatur voluptate labore cillum veniam amet ex cupidatat ullamco ipsum cillum cupidatat. Laboris quis officia laborum sint ea aliquip. Ea est nostrud labore labore veniam laboris. Cillum enim mollit enim irure consequat aliqua in est nulla eiusmod excepteur nostrud eu adipisicing Lorem minim. Aliqua eu reprehenderit deserunt sunt duis nostrud tempor.
-Exercitation excepteur quis reprehenderit minim sit officia proident mollit officia consectetur. Proident veniam sunt ea. Ea laborum ipsum excepteur excepteur.
-Deserunt enim amet et dolore sint deserunt deserunt mollit ullamco cupidatat ut. Voluptate esse excepteur pariatur. Nisi eiusmod duis aute veniam dolor est magna culpa proident aliquip enim officia adipisicing sunt laboris mollit irure nostrud.
+### Témata konference
+
+**eGovernment: Klíčová role státu při vytváření přátelského prostředí pro lidi a rozvoj podnikání**
+
+* Jak si dnes stojí Česká republika v konkurenceschopnosti, digitalizaci a inovacích v evropském kontextu
+* Jak důležitá je přívětivost podnikatelského prostředí v Česku pro investory, firmy, startupy i špičkové talenty?
+* Které faktory nejvíce ovlivňují snadnost interakce firem a občanů se státem (které služby, systémy či jejich podstata a funkcionality)?
+* Digitalizace a eGovernment jsou dnes nejčastěji zmiňovanými prioritami vlád vyspělých zemí
+
+  * Jaké jsou klíčové elementy úspěšné digitalizace státu?
+  * Které přístupy k digitalizaci se ukázaly jako nejefektivnější? Proč (dostatečně) nepřebíráme osvědčené postupy jiných zemí?
+  * Je dedikovaný vládní CIO/CTO či specializované ministerstvo rozhodujícím faktorem úspěchu?
+* Jakou infrastrukturu, platformy a další podpůrné iniciativy by měl stát poskytovat s cílem nabídnout maximálně vstřícný a přátelský servis firmám i občanům?
+
+  * Co je (a měla by být) role státu při snižování nákladů podnikání (přímých i nepřímých) v Česku?
+
+**Role daňového, legislativního a regulačního rámce v podpoře inovací a investic do moderních technologií**
+
+* Co činí Českou republiku atraktivní pro zahraniční investory?
+* Je současné daňové, legislativní a regulační prostředí v Česku dostatečně vstřícné pro rozvoj inovací a zakládání startupů?
+
+  * Jaké legislativní a regulatorní změny by byly žádoucí?
+  * Jaká je nejlepší praxe zapojení vlády a státu do podpory inovací a inovačních platforem?
+  * Nebyli by plátci daní ochotni akceptovat vyšší míru zdanění výměnou za stabilní, předvídatelný a méně komplikovaný daňový a právní systém?
+
+**Znalostní ekonomika a lidé: klíčový význam vzdělání a rozvoje podnikatelské kultury**
+
+* Jsou Češi v mezinárodním srovnání dostatečně podnikaví?
+
+  * Vymanila se již podnikatelská kultura v Česku z následků éry socialismu?
+  * Jak si stojíme v počtu podnikatelů a trendech na obyvatele ve srovnání s jinými vyspělými zeměmi?
+* Co motivuje lidi k založení vlastní firmy a k inovacím (ať již v roli majitele firmy nebo zaměstnance)?
+* Jaká je struktura českých firem z pohledu nabídky přidané hodnoty vs. komoditizovaných produktů či služeb?
+
+  * Na jaká odvětví se specializují české firmy – je současná struktura pro naši ambici stát se znalostní ekonomikou vyvážená a zdravá?
+* Jak jsme úspěšní při rozvíjení relevantních schopností a transformaci požadovaných dovedností na trhu práce (ať již občanů ČR či imigrací ze zahraničí)?
+
+  * Co činí naši zemi atraktivní pro nejlepší talenty? Co je klíčové pro to, aby ti naši zůstali a ostatní byli motivováni zvažovat přesun do Česka?
+
+ 
+
+**Cesta Česka mezi Top 10 znalostních ekonomik EU v roce 2025**
+
+* Zformulování a prioritizace kroků, které položí základy transformace a akcelerované digitalizace českého státu a ekonomiky z pohledu úspěšných firem, investorů a startupů, včetně požadavků na fungování širšího ekosystému očima klíčových speakerů a expertů konference.
+
+**Jaké budou další kroky? Shrnutí a závěr konference**
+
+* Jsme nyní připraveni na úspěšnou digitalizaci státu? Shrnutí klíčových okamžiků, které zazněly během první konference CzechSetGo!
+
+ 
+
+### Řečníci
+
+* Barry Lowry, Government CIO, Irsko
+* Siim Sikkut Government CIO, Estonsko
+* Vladimír Dzurilla, Vládní zmocněnec pro digitalizaci a ICT
+* Martin Jahn, Člen představenstva pro prodej a marketing, Škoda Auto
+* Michal Pěchouček, CTO Avast a ředitel Centra umělé inteligence ČVUT
+* Sten Tamkivi, President Estonian Founders Society, bývalý GM Skype
+* Radek Špicar, Víceprezident Svazu průmyslu a dopravy ČR
+* Eva Pavlíková, Co-Founder & CEO, Česko.Digital
+* Radim Polčák, Vedoucí Ústavu práva a technologií, PF MU
+* Eve Peeterson, Head Startup Estonia
+* Dušan Šenkypl, Co-Founder a Partner, Pale Fire Capital
+* Pavel Doležal, CEO, Keboola, co–leader iniciativy COVID19CZ
+* Petr Sedláček, Profesor ekonomie, University of Oxford
+* Matěj Chytil, Poradce náměstka Magistrátu hl. m. Prahy

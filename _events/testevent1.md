@@ -3,7 +3,7 @@ title: Creative Bureaucracy Festival 2021
 annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
   labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut
   cillum dolore.
-date: 2022-09-23T08:21:17.085Z
+date: 2022-09-28T08:55:00.000Z
 image: /assets/uploads/fb-event.jpg
 ---
 <ul><li><h4>PROČ</h4>

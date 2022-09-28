@@ -43,5 +43,3 @@ Každý z řečníků panelové diskuze Vám během 5 minut stručně představ�
 #### Moderátor diskuze
 
 * Míra Vlach z [Projektového klubu](https://projektovyklub.weebly.com/ "https\://projektovyklub.weebly.com/"), nezávislé diskuzní platformy zaměřující se na sdílení manažerských zkušeností a rozvoj projektových manažerů.
-
-![](/assets/uploads/vendor-lock-in.jpg)

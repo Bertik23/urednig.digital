@@ -13,6 +13,11 @@ layout: default
         <div>
             {{ page.what | markdownify}}
         </div>
+        <div class="y2rem"></div>
+        <h2>Zapojte se</h2>
+        <div>
+            {{ page.join | markdownify }}
+        </div>
     </div>
     <div class="white-box">
         <h2>Kontakty</h2>
@@ -26,6 +31,7 @@ layout: default
         </ul>
     </div>
 </div>
+
 
 <h2 class="center blue">Náš tým</h2>
 {% for division in page.team %}

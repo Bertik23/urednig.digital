@@ -1,8 +1,5 @@
 ---
 title: Hackathon "Chtějme lepší Česko"
-annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
-  labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut
-  cillum dolore.
 date: 2022-09-28T20:07:06.445Z
 image: /assets/uploads/hackathon.jpg
 ---

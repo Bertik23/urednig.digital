@@ -1,8 +1,5 @@
 ---
 title: "Meet-up: Výběr technologií do veřejného IT projektu"
-annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
-  labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut
-  cillum dolore.
 date: 2022-09-28T19:58:49.389Z
 image: /assets/uploads/panelova_diskuze_open-source-2-.jpg
 ---

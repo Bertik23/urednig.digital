@@ -1,8 +1,5 @@
 ---
 title: "eGovernment: Digitální stát jako drive inovací a růstu"
-annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
-  labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut
-  cillum dolore.
 date: 2022-09-28T21:00:48.383Z
 image: /assets/uploads/czechsetgo.jpeg
 ---

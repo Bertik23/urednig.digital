@@ -28,6 +28,7 @@ collections:
     fields:
       - { name: title }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: "Anototation", name: anotation, widget: string }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
@@ -40,7 +41,25 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
-          - {label: Contacts, name: contacts, widget: list}
+          - label: Contacts
+            name: contacts
+            widget: list
+            fields:
+              - label: Text
+                name: name
+                widget: string
+              - label: Link
+                name: link
+                widget: string
+              - label: Icon
+                name: icon
+                widget: string
+          - label: "Kontakty text"
+            name: contactsText
+            widget: string
+          - label: "Proč to děláme?"
+            name: why
+            widget: string
           - label: "Co děláme?"
             name: what
             widget: string

@@ -1,8 +1,5 @@
 ---
 title: Vendor lock-in v hlavní roli
-annotation: Lorem ipsum dolor sit amet, occaecat veniam Lorem fugiat aliqua
-  labore ullamco cillum enim sit quis eu velit elit pariatur sunt deserunt ut
-  cillum dolore.
 date: 2022-09-28T20:52:07.395Z
 image: /assets/uploads/banner_vendor_lock.jpg
 ---

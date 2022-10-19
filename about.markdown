@@ -91,9 +91,9 @@ team:
       - name: Romana Pokorná
         image: https://ca.slack-edge.com/TG21XF887-U011FB26K7Y-bca455b9884c-512
         function: Support
-      - name: Jméno Příjmení 5
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce5
+      - name: Ivana Antalová
+        image: https://ca.slack-edge.com/TG21XF887-U022AU3PB8F-3aa0dfe78e8c-512
+        function: Marketing
   - name: "-"
     members:
       - name: Marie Neradová

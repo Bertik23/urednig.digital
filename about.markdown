@@ -31,13 +31,16 @@ what: Věříme, že stát může poskytovat a rozvíjet své služby moderně v
   takové prostředí, v kterém se budou dodavatelé ochotně ucházet o veřejné
   zakázky a budou se moci aktivně podílet na inovacích a rozvoji digitálního
   státu.
-join: >-
-  A proto se spojila skupina expertních dobrovolníků ze státní správy, z řad
-  dodavatelů, agilních konzultantů a právníků a dalších expertních profesí.  K
-  tomu nám pomůže:  <br>
-
-
-  1. aktivní podpora dialogu mezi zadavateli a dodavateli a odbornou veřejností <br> 2. proaktivní podpora digitálně přívětivé legislativy a vytvoření podmínek pro využívání inovativních technologií <br> 3. sdílení znalostí, zkušeností a best practice; nejen v ČR, ale i s jinými státy <br> 4. probuzení zájmu ke změně skrz pozitivní osvětu a sdílení <br> 5. rozšiřování kompetencí zadavatelů a dodavatelů skrz osvěty, inspirace a školení <br> 6. inspirativní sdílení od organizací přinášejících inovace
+join: "A proto se spojila skupina expertních dobrovolníků ze státní správy, z
+  řad dodavatelů, agilních konzultantů a právníků a dalších expertních
+  profesí.  K tomu nám pomůže:  <br>1. aktivní podpora dialogu mezi zadavateli a
+  dodavateli a odbornou veřejností <br> 2. proaktivní podpora digitálně
+  přívětivé legislativy a vytvoření podmínek pro využívání inovativních
+  technologií <br> 3. sdílení znalostí, zkušeností a best practice; nejen v ČR,
+  ale i s jinými státy <br> 4. probuzení zájmu ke změně skrz pozitivní osvětu a
+  sdílení <br> 5. rozšiřování kompetencí zadavatelů a dodavatelů skrz osvěty,
+  inspirace a školení <br> 6. inspirativní sdílení od organizací přinášejících
+  inovace"
 permalink: /about/
 behind:
   - name: Česko.digital

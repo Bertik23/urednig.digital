@@ -12,7 +12,8 @@ contacts:
     link: https://twitter.com/CeskoDigital
     name: Twitter
 contactsText: Spojte se s námi!
-why: Věříme, že stát může poskytovat a rozvíjet své služby moderně v souladu se
+why: "?"
+what: Věříme, že stát může poskytovat a rozvíjet své služby moderně v souladu se
   současnými technologickými trendy. Nezbytným předpokladem pro tento cíl je
   kultivace prostředí zadávání veřejných IT zakázek. Je třeba posunout uvažování
   zadavatelů ve veřejné správě od pouhé digitalizace agend jednotlivých úřadů
@@ -20,15 +21,6 @@ why: Věříme, že stát může poskytovat a rozvíjet své služby moderně v 
   takové prostředí, v kterém se budou dodavatelé ochotně ucházet o veřejné
   zakázky a budou se moci aktivně podílet na inovacích a rozvoji digitálního
   státu.
-what: "A proto se spojila skupina expertních dobrovolníků ze státní správy, z
-  řad dodavatelů, agilních konzultantů a právníků a dalších expertních
-  profesí.  K tomu nám pomůže:  1. aktivní podpora dialogu mezi zadavateli a
-  dodavateli a odbornou veřejností 2. proaktivní podpora digitálně přívětivé
-  legislativy a vytvoření podmínek pro využívání inovativních technologií 3.
-  sdílení znalostí, zkušeností a best practice; nejen v ČR, ale i s jinými státy
-  4. probuzení zájmu ke změně skrz pozitivní osvětu a sdílení 5. rozšiřování
-  kompetencí zadavatelů a dodavatelů skrz osvěty, inspirace a školení 6.
-  inspirativní sdílení od organizací přinášejících inovace"
 join: >-
   A proto se spojila skupina expertních dobrovolníků ze státní správy, z řad
   dodavatelů, agilních konzultantů a právníků a dalších expertních profesí.  K

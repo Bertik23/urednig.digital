@@ -18,11 +18,7 @@ why: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vestibulum erat
   sed arcu. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. In
   rutrum. Phasellus faucibus molestie nisl. Pellentesque sapien. Mauris
   suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel
-  sagittis velit mauris vel metus. Nam quis nulla. Curabitur ligula sapien,
-  pulvinar a vestibulum quis, facilisis vel sapien. Nullam at arcu a est
-  sollicitudin euismod. Duis aute irure dolor in reprehenderit in voluptate
-  velit esse cillum dolore eu fugiat nulla pariatur. Praesent vitae arcu tempor
-  neque lacinia pretium.
+  sagittis velit mauris vel metus.
 what: Věříme, že stát může poskytovat a rozvíjet své služby moderně v souladu se
   současnými technologickými trendy. Nezbytným předpokladem pro tento cíl je
   kultivace prostředí zadávání veřejných IT zakázek. Je třeba posunout uvažování

@@ -3,17 +3,15 @@ title: O nás
 layout: about
 contacts:
   - icon: <i class="bi bi-facebook"></i>
-    link: /
+    link: https://www.facebook.com/cesko.digital/
     name: Facebook
   - icon: <i class="bi bi-linkedin"></i>
-    link: /
+    link: https://www.instagram.com/cesko.digital/
     name: Instagram
   - icon: <i class="bi bi-twitter"></i>
-    link: /
+    link: https://twitter.com/CeskoDigital
     name: Twitter
-contactsText: Kontakty na česko.digital a rednik.digital kontakty na
-  česko.digital a rednik.digital kontakty na česko.digital a rednik.digital
-  kontakty na česko.digital a rednik.digital
+contactsText: Spojte se s námi!
 why: Věříme, že stát může poskytovat a rozvíjet své služby moderně v souladu se
   současnými technologickými trendy. Nezbytným předpokladem pro tento cíl je
   kultivace prostředí zadávání veřejných IT zakázek. Je třeba posunout uvažování

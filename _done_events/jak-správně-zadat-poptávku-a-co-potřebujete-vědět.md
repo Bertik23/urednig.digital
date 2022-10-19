@@ -1,5 +1,5 @@
 ---
-title: Jak správně zadat poptávku a co potřebujete vědět?
+title: "ASWA: Jak správně zadat poptávku a co potřebujete vědět?"
 image: /assets/uploads/jak-správně-zadat-poptávku....jpg
 more_url: https://aswa.cz/zamereno-na-vyvoj/jak-spravne-zadat-poptavku/
 annotation: Sdílíme Vám video ASWA, která spolupracovala s Česko.Digital. V

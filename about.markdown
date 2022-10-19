@@ -65,40 +65,40 @@ team:
         function: Scrum Master
   - name: "-"
     members:
-      - name: Martina Habová
-        image: https://ca.slack-edge.com/TG21XF887-U011HGB7FQC-7be844d7cbb9-512
-        function: Marketing
-      - name: Zuzana Fialová
-        image: https://ca.slack-edge.com/TG21XF887-UV49A8KFB-21a9c5ae0d31-512
-        function: Koordinátor
       - name: Šárka Ševčíková
         image: https://ca.slack-edge.com/TG21XF887-U02GF507V9Q-7c58739f4bfb-512
         function: Scrum Master
-      - name: Eva Mečlová
-        image: https://ca.slack-edge.com/TG21XF887-UN2E9CVUL-0a26b67ea555-512
-        function: Marketing
-  - name: "-"
-    members:
+      - name: Zuzana Fialová
+        image: https://ca.slack-edge.com/TG21XF887-UV49A8KFB-21a9c5ae0d31-512
+        function: Koordinátor
       - name: Martin Podveský
         image: https://ca.slack-edge.com/TG21XF887-UU6VC7DGC-2894e0f559fd-512
         function: Koordinátor
       - name: Michal Bláha
         image: https://ca.slack-edge.com/TG21XF887-UG45BUYEA-64f678ee8148-512
         function: Konzultant
-      - name: Kateřina Kocianová
-        image: https://ca.slack-edge.com/TG21XF887-U015Y4TLFHN-0463dc09ee75-512
-        function: Support
-      - name: Romana Pokorná
-        image: https://ca.slack-edge.com/TG21XF887-U011FB26K7Y-bca455b9884c-512
-        function: Support
-      - name: Ivana Antalová
-        image: https://ca.slack-edge.com/TG21XF887-U022AU3PB8F-3aa0dfe78e8c-512
-        function: Marketing
   - name: "-"
     members:
+      - name: Eva Mečlová
+        image: https://ca.slack-edge.com/TG21XF887-UN2E9CVUL-0a26b67ea555-512
+        function: Marketing
       - name: Marie Neradová
         image: https://ca.slack-edge.com/TG21XF887-U02KQMNBC1Y-207d8c0b23bf-512
         function: Marketing
+      - name: Ivana Antalová
+        image: https://ca.slack-edge.com/TG21XF887-U022AU3PB8F-3aa0dfe78e8c-512
+        function: Marketing
+      - name: Martina Habová
+        image: https://ca.slack-edge.com/TG21XF887-U011HGB7FQC-7be844d7cbb9-512
+        function: Marketing
+      - name: Kateřina Kociánová
+        image: https://ca.slack-edge.com/TG21XF887-U015Y4TLFHN-0463dc09ee75-512
+        function: Support
+  - name: "-"
+    members:
+      - name: Romana Pokorná
+        image: https://ca.slack-edge.com/TG21XF887-U011FB26K7Y-bca455b9884c-512
+        function: Support
       - name: Pavel Kroupa
         image: https://ca.slack-edge.com/TG21XF887-U01APKS8686-5c6e4117192d-512
         function: Právník

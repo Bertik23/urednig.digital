@@ -1,8 +1,20 @@
 ---
+title: O nás
+layout: about
+contacts:
+  - icon: <i class="bi bi-facebook"></i>
+    link: /
+    name: Facebook
+  - icon: <i class="bi bi-linkedin"></i>
+    link: /
+    name: Instagram
+  - icon: <i class="bi bi-twitter"></i>
+    link: /
+    name: Twitter
 contactsText: Kontakty na česko.digital a rednik.digital kontakty na
   česko.digital a rednik.digital kontakty na česko.digital a rednik.digital
   kontakty na česko.digital a rednik.digital
-title: O nás
+why: Proč to děláme proč to děláme proč to děláme proč to děláme proč to děláme
 what: Věříme, že stát může poskytovat a rozvíjet své služby moderně v souladu se
   současnými technologickými trendy. Nezbytným předpokladem pro tento cíl je
   kultivace prostředí zadávání veřejných IT zakázek. Je třeba posunout uvažování
@@ -11,8 +23,6 @@ what: Věříme, že stát může poskytovat a rozvíjet své služby moderně v
   takové prostředí, v kterém se budou dodavatelé ochotně ucházet o veřejné
   zakázky a budou se moci aktivně podílet na inovacích a rozvoji digitálního
   státu.
-why: Proč to děláme proč to děláme proč to děláme proč to děláme proč to děláme
-layout: about
 join: >-
   A proto se spojila skupina expertních dobrovolníků ze státní správy, z řad
   dodavatelů, agilních konzultantů a právníků a dalších expertních profesí.
@@ -33,16 +43,6 @@ join: >-
 
   6. inspirativní sdílení od organizací přinášejících inovace
 permalink: /about/
-contacts:
-  - icon: <i class="bi bi-facebook"></i>
-    link: /
-    name: Facebook
-  - icon: <i class="bi bi-linkedin"></i>
-    link: /
-    name: Instagram
-  - icon: <i class="bi bi-twitter"></i>
-    link: /
-    name: Twitter
 behind:
   - name: Česko.digital
     logo: /assets/images/cdLogo.svg
@@ -52,56 +52,56 @@ behind:
       - Víme, že pomocí IT dokážeme dosáhnout velkých věcí, které stojí méně a
         fungují lépe.
 team:
-  - name: Oblast1
+  - name: "-"
     members:
-      - name: Jméno Příjmení 1
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce1
-      - name: Jméno Příjmení 2
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce2
-      - name: Jméno Příjmení 3
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce3
-  - name: Oblast2
+      - name: Eva Pavlíková
+        image: https://ca.slack-edge.com/TG21XF887-UKWMFMY31-09e978127162-512
+        function: Product Owner
+      - name: Veronika Záňová
+        image: https://ca.slack-edge.com/TG21XF887-U02U90BJ76Y-8c8a151b4624-512
+        function: Scrum Master
+      - name: Michal Silov
+        image: https://ca.slack-edge.com/TG21XF887-U02UCLRNTM0-c1f8b2af21d0-512
+        function: Scrum Master
+  - name: "-"
     members:
-      - name: Jméno Příjmení 1
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce1
-      - name: Jméno Příjmení 2
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce2
-      - name: Jméno Příjmení 3
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce3
-      - name: Jméno Příjmení 4
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce4
-  - name: Oblast3
+      - name: Martina Habová
+        image: https://ca.slack-edge.com/TG21XF887-U011HGB7FQC-7be844d7cbb9-512
+        function: Marketing
+      - name: Zuzana Fialová
+        image: https://ca.slack-edge.com/TG21XF887-UV49A8KFB-21a9c5ae0d31-512
+        function: Koordinátor
+      - name: Šárka Ševčíková
+        image: https://ca.slack-edge.com/TG21XF887-U02GF507V9Q-7c58739f4bfb-512
+        function: Scrum Master
+      - name: Eva Mečlová
+        image: https://ca.slack-edge.com/TG21XF887-UN2E9CVUL-0a26b67ea555-512
+        function: Marketing
+  - name: "-"
     members:
-      - name: Jméno Příjmení 1
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce1
-      - name: Jméno Příjmení 2
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce2
-      - name: Jméno Příjmení 3
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce3
-      - name: Jméno Příjmení 4
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce4
+      - name: Martin Podveský
+        image: https://ca.slack-edge.com/TG21XF887-UU6VC7DGC-2894e0f559fd-512
+        function: Koordinátor
+      - name: Michal Bláha
+        image: https://ca.slack-edge.com/TG21XF887-UG45BUYEA-64f678ee8148-512
+        function: Konzultant
+      - name: Kateřina Kocianová
+        image: https://ca.slack-edge.com/TG21XF887-U015Y4TLFHN-0463dc09ee75-512
+        function: Support
+      - name: Romana Pokorná
+        image: https://ca.slack-edge.com/TG21XF887-U011FB26K7Y-bca455b9884c-512
+        function: Support
       - name: Jméno Příjmení 5
         image: https://thispersondoesnotexist.com/image
         function: Funkce5
-  - name: Oblast4
+  - name: "-"
     members:
-      - name: Jméno Příjmení 1
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce1
-      - name: Jméno Příjmení 2
-        image: https://thispersondoesnotexist.com/image
-        function: Funkce2
+      - name: Marie Neradová
+        image: https://ca.slack-edge.com/TG21XF887-U02KQMNBC1Y-207d8c0b23bf-512
+        function: Marketing
+      - name: Pavel Kroupa
+        image: https://ca.slack-edge.com/TG21XF887-U01APKS8686-5c6e4117192d-512
+        function: Právník
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

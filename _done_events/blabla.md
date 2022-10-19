@@ -8,26 +8,5 @@ annotation: >-
   popsat faktory, které formují český eGovernment a umožnit pochopení zásadní
   mezery oddělující nás od pokroku.
 
-
-  Na co se můžeš těšit?
-
-
-  Probereme témata, která ovlivňují úroveň státního IT. Mezi ně patří:
-
-  - Decentralizace
-
-  - Minimum lidí
-
-  - Poloviční platy
-
-  - Špatné pracovní podmínky
-
-  - Totální outsourcing
-
-  - Neefektivní veřejné zakázky
-
-  - Špatné zákony
-
-
   Webinář povede Jakub Onderka, bezpečnostní analytik v CERT v  Národním úřadu pro kybernetickou a informační bezpečnost. Podílí se na řešení nejvážnějších kybernetických útoků, které se v České republice odehrávají. Taktéž pomáhá navrhovat nové regulace a metodiky v rámci zvýšení kybernetické bezpečnosti.
 ---

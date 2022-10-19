@@ -3,11 +3,13 @@ layout: metodika
 permalink: /metodika
 title: Metodika
 files:
-  - name: PDF
+  - name: PDF pro čtení na obrazovce
     url: https://data.cesko.digital/prirucka/prirucka.pdf
-  - name: EPUB
+  - name: "PDF tiskové k výrobě sešitku "
+    url: https://data.cesko.digital/prirucka/booklet.pdf
+  - name: EPUB e-kniha
     url: https://data.cesko.digital/prirucka/prirucka.epub
-  - name: MOBI
+  - name: MOBI e-kniha
     url: https://data.cesko.digital/prirucka/prirucka.mobi
 blocks:
   - >

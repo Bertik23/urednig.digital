@@ -81,13 +81,13 @@ team:
       - name: Martina Habová
         image: https://ca.slack-edge.com/TG21XF887-U011HGB7FQC-7be844d7cbb9-512
         function: Marketing
-      - name: Kateřina Kociánová
-        image: https://ca.slack-edge.com/TG21XF887-U015Y4TLFHN-0463dc09ee75-512
-        function: Support
   - name: "-"
     members:
       - name: Romana Pokorná
         image: https://ca.slack-edge.com/TG21XF887-U011FB26K7Y-bca455b9884c-512
+        function: Support
+      - name: Kateřina Kociánová
+        image: https://ca.slack-edge.com/TG21XF887-U015Y4TLFHN-0463dc09ee75-512
         function: Support
       - name: Pavel Kroupa
         image: https://ca.slack-edge.com/TG21XF887-U01APKS8686-5c6e4117192d-512

@@ -12,6 +12,8 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: Image, name: image, widget: image}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'To mě zajímá', name: has_button, widget: boolean }
+      - { labe: 'To mě zajímá url', name: button_link, widget: url }
   - name: 'done_events'
     label: 'Záznamy'
     folder: '_done_events/'
@@ -86,6 +88,22 @@ collections:
                   - label: Funkce
                     name: function
                     widget: string
+          - label: Behind
+            name: behind
+            widget: list
+            fields:
+              - label: Name
+                name: name
+                widget: string
+              - label: Logo
+                name: logo
+                widget: image
+              - label: Points
+                name: points
+                widget: list
+                fields:
+                  - label: Point
+                  - widget: string
       - label: Metodika
         name: metodika
         file: metodika.md
@@ -100,9 +118,12 @@ collections:
               - label: File
                 name: url
                 widget: file
-          - label: Body
-            name: body
-            widget: markdown
+          - label: Blocks
+            name: blocks
+            widget: list
+            fields:
+              - label: Blok
+                widget: markdown
       - label: Home
         name: home
         file: index.markdown

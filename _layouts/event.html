@@ -8,8 +8,10 @@ layout: default
     <h1>{{page.title}}</h1>
     <div class="perex">{{page.annotation}}</div>
 
-    <a class="button border black inline-block y3rem y-3rem">To mě zajímá</a>
-
+    {% if page.has_button %}
+        <a class="button border black inline-block y3rem y-3rem" href="{{ page.button_link }}">To mě zajímá</a>
+    {% endif %}
+    
     {{ content }}
 </div>
 

@@ -18,7 +18,11 @@ layout: default
         <img alt="" class="last-event-image" src="{{ event.image }}">
         <div>
             <a href="{{event.url}}" class="black"><h2>{{ event.title }}</h2></a>
-            <p>{{ event.annotation }}</p>
+            {% if event.annotation %}
+                <p class="y-1rem y1rem">{{ event.annotation }}</p>
+            {% else %}
+                <p class="y-1rem y1rem">{{ event.content | strip_html | slice: 0, 248 }}...</p>
+            {% endif %}
             <div class="y1rem"></div>
             <a href={{event.url}}>Detail akce</a>
         </div>

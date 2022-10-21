@@ -4,8 +4,8 @@
 - text: "Metodika"
   link: /metodika
   group: start
-- text: "Diskuse"
-  link: /diskuse
+- text: "Přidej se"
+  link: https://join.cesko.digital
   group: end
 - text: "O nás"
   link: /about

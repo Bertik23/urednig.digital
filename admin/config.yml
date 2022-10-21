@@ -101,9 +101,9 @@ collections:
               - label: Points
                 name: points
                 widget: list
-                fields:
+                field:
                   - label: Point
-                  - widget: string
+                    widget: string
       - label: Metodika
         name: metodika
         file: metodika.md
@@ -121,7 +121,7 @@ collections:
           - label: Blocks
             name: blocks
             widget: list
-            fields:
+            field:
               - label: Blok
                 widget: markdown
       - label: Home

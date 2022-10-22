@@ -42,10 +42,10 @@ behind:
   - name: Česko.digital
     logo: /assets/images/cdLogo.svg
     points:
-      - Jako komunita expertních dobrovolníků mšníme Česko k lepšímu.
-      - Máme za sebou projekty úspěšné doma i ve světě.
-      - Víme, že pomocí IT dokážeme dosáhnout velkých věcí, které stojí méně a
-        fungují lépe.
+      - point: Jako komunita expertních dobrovolníků mšníme Česko k lepšímu.
+      - point: Máme za sebou projekty úspěšné doma i ve světě.
+      - point: Víme, že pomocí IT dokážeme dosáhnout velkých věcí, které stojí méně a
+          fungují lépe.
 team:
   - name: "-"
     members:

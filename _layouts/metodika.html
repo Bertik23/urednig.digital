@@ -6,7 +6,7 @@ layout: default
         <div class="y2rem"></div>
         {% for box in page.blocks %}
             <div class="white-box">
-                {{ box | markdownify}}
+                {{ box.block | markdownify}}
             </div>
             {% if page.blocks.last != box %}
             <div class="center y1rem y-1rem">

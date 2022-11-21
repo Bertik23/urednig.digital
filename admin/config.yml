@@ -5,7 +5,6 @@ backend:
   repo: cesko-digital/urednik.digital
   base_url: https://oauth.cesko.digital
   auth_endpoint: /auth
-  open_authoring: true
 media_folder: 'assets/uploads'
 collections:
   - name: 'events'

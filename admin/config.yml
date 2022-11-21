@@ -1,8 +1,11 @@
 base_url: https://urednik-digital-kvpz.vercel.app/
 repo: https://github.com/cesko-digital/urednik.digital
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: cesko-digital/urednik.digital
+  base_url: https://oauth.cesko.digital
+  auth_endpoint: /auth
+  open_authoring: true
 media_folder: 'assets/uploads'
 collections:
   - name: 'events'

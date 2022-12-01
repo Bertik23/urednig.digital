@@ -11,14 +11,23 @@ contacts:
   - icon: <i class="bi bi-twitter"></i>
     link: https://twitter.com/CeskoDigital
     name: Twitter
-contactsText: Spojte se s námi!
-why: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vestibulum erat
-  nulla, ullamcorper nec, rutrum non, nonummy ac, erat. Vivamus porttitor turpis
-  ac leo. Aenean id metus id velit ullamcorper pulvinar. Mauris tincidunt sem
-  sed arcu. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. In
-  rutrum. Phasellus faucibus molestie nisl. Pellentesque sapien. Mauris
-  suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel
-  sagittis velit mauris vel metus.
+contactsText: Zapojte se a pomožte nám posunout státní správu blíže k její modernizaci.
+why: Projekt Veřejné zakázky spolu spojuje expertní dobrovolníky z oblasti
+  státní správy a dobrovolníky z oblasti soukromé sféry z řad dodavatelů,
+  agilních konzultantů, právníků a dalších expertních profesí. Fůze těchto dvou
+  uskupení tvoří v Česku kultivované prostředí pro zadávání veřejných zakázek
+  nejen v online rozhraní.  Díky otevřenému online prostoru, ve kterém
+  jednotlivé pracovní skupiny sdílejí své znalosti a zkušenosti můžeme dosáhnout
+  vytvoření jednotné metodiky zadávání veřejných zakázek pro úředníky napříč
+  celou státní správou. Správně stanovená metodika tak pomůže podpořit
+  financování oblasti, zpříjemnit dosavadní legislativu zadávání veřejných
+  zakázek a rozšířit kompetence zadavatelů a dodavatelů zakázek. Jednou z
+  překážek pro úspěšnou digitální transformaci státní správy je přetrvávající
+  rezortismus a nedostatky v její koordinaci. Ta je také důsledkem nedostatečné
+  komunikace napříč rezorty i mezi jednotlivými úředníky. Naše jednotné místo je
+  díky sdílení znalostí a zkušeností zdrojem užitečných informací pro úředníky,
+  hlavně s ohledem na téma elektronizace státní správy. Zapojte se a pomožte nám
+  posunout státní správu blíže k její modernizaci.
 what: Věříme, že stát může poskytovat a rozvíjet své služby moderně v souladu se
   současnými technologickými trendy. Nezbytným předpokladem pro tento cíl je
   kultivace prostředí zadávání veřejných IT zakázek. Je třeba posunout uvažování
@@ -38,14 +47,6 @@ join: "A proto se spojila skupina expertních dobrovolníků ze státní správy
   inspirace a školení <br> 6. inspirativní sdílení od organizací přinášejících
   inovace"
 permalink: /about/
-behind:
-  - name: Česko.digital
-    logo: /assets/images/cdLogo.svg
-    points:
-      - point: Jako komunita expertních dobrovolníků mšníme Česko k lepšímu.
-      - point: Máme za sebou projekty úspěšné doma i ve světě.
-      - point: Víme, že pomocí IT dokážeme dosáhnout velkých věcí, které stojí méně a
-          fungují lépe.
 team:
   - name: "-"
     members:
@@ -97,6 +98,14 @@ team:
       - name: Pavel Kroupa
         image: https://ca.slack-edge.com/TG21XF887-U01APKS8686-5c6e4117192d-512
         function: Právník
+behind:
+  - name: Česko.digital
+    logo: /assets/images/cdLogo.svg
+    points:
+      - point: Jako komunita expertních dobrovolníků mšníme Česko k lepšímu.
+      - point: Máme za sebou projekty úspěšné doma i ve světě.
+      - point: Víme, že pomocí IT dokážeme dosáhnout velkých věcí, které stojí méně a
+          fungují lépe.
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
